@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2022-12-07T17:53:07.092391071</meta:creation-date><dc:date>2023-03-01T10:51:40.143126263</dc:date><meta:editing-duration>PT2H34M27S</meta:editing-duration><meta:editing-cycles>27</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="109" meta:word-count="771" meta:character-count="4289" meta:non-whitespace-character-count="3675"/></office:meta>
+ <office:meta><meta:creation-date>2022-12-07T17:53:07.092391071</meta:creation-date><dc:date>2023-03-14T08:52:43.764810546</dc:date><meta:editing-duration>PT2H38M2S</meta:editing-duration><meta:editing-cycles>29</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="110" meta:word-count="774" meta:character-count="4294" meta:non-whitespace-character-count="3678"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">135890</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">2328</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">16221</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">12199</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">53552</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">34556</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">13681</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">17452</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">127011</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">2328</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">135890</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">18547</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">148087</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16746</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">57662</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">53552</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">34555</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">67231</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -85,7 +85,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2000490</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2059917</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -107,7 +107,7 @@
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
@@ -146,7 +146,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="OpenDyslexic" fo:font-size="12pt" fo:language="fr" fo:country="FR" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -187,6 +187,22 @@
   <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
    <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
@@ -248,73 +264,77 @@
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0004fe49" officeooo:paragraph-rsid="0004fe49"/>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001f6e8d"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0004fe49" officeooo:paragraph-rsid="000fbbb0"/>
+   <style:text-properties officeooo:rsid="0004fe49" officeooo:paragraph-rsid="0004fe49"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000a7aa4" officeooo:paragraph-rsid="000a7aa4"/>
+   <style:text-properties officeooo:rsid="0004fe49" officeooo:paragraph-rsid="000fbbb0"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="000fbbb0"/>
+   <style:text-properties officeooo:rsid="000a7aa4" officeooo:paragraph-rsid="000a7aa4"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0005f6f3"/>
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="000fbbb0"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="000dc785"/>
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0005f6f3"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="00121c6e"/>
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="000dc785"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0013d878"/>
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="00121c6e"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0017f7ea"/>
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0013d878"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00064a82" officeooo:paragraph-rsid="00064a82"/>
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0017f7ea"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="0009857e"/>
+   <style:text-properties officeooo:rsid="00064a82" officeooo:paragraph-rsid="00064a82"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="0010903c"/>
+   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="0009857e"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="00121c6e"/>
+   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="0010903c"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="001dcb49"/>
+   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="00121c6e"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000a3d44" officeooo:paragraph-rsid="000a3d44"/>
+   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="001dcb49"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000a3099" officeooo:paragraph-rsid="000a3099"/>
+   <style:text-properties officeooo:rsid="000a3d44" officeooo:paragraph-rsid="000a3d44"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000a3099" officeooo:paragraph-rsid="001dcb49"/>
+   <style:text-properties officeooo:rsid="000a3099" officeooo:paragraph-rsid="000a3099"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000dc785" officeooo:paragraph-rsid="000dc785"/>
+   <style:text-properties officeooo:rsid="000a3099" officeooo:paragraph-rsid="001dcb49"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0010903c" officeooo:paragraph-rsid="0010903c"/>
+   <style:text-properties officeooo:rsid="000dc785" officeooo:paragraph-rsid="000dc785"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0010903c" officeooo:paragraph-rsid="00121c6e"/>
+   <style:text-properties officeooo:rsid="0010903c" officeooo:paragraph-rsid="0010903c"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00121c6e" officeooo:paragraph-rsid="00121c6e"/>
+   <style:text-properties officeooo:rsid="0010903c" officeooo:paragraph-rsid="00121c6e"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00121c6e" officeooo:paragraph-rsid="00178ec1"/>
+   <style:text-properties officeooo:rsid="00121c6e" officeooo:paragraph-rsid="00121c6e"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00121c6e" officeooo:paragraph-rsid="00178ec1"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="17.013cm" style:leader-style="dotted" style:leader-text="."/>
@@ -322,31 +342,31 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="00121c6e" officeooo:paragraph-rsid="00178ec1"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0013d878" officeooo:paragraph-rsid="0013d878"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0013d878" officeooo:paragraph-rsid="001dcb49"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="00148084" officeooo:paragraph-rsid="00148084"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="001590dc" officeooo:paragraph-rsid="001590dc"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="001590dc" officeooo:paragraph-rsid="0015c02c"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0015bab9" officeooo:paragraph-rsid="0015bab9"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000bddac" officeooo:paragraph-rsid="000bddac"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000bddac" officeooo:paragraph-rsid="0015bab9"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="15.743cm" style:leader-style="dotted" style:leader-text="."/>
@@ -354,21 +374,13 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="000bddac" officeooo:paragraph-rsid="001c4612"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0015c02c" officeooo:paragraph-rsid="0015c02c"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="0017f7ea" officeooo:paragraph-rsid="0017f7ea"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0017f7ea" officeooo:paragraph-rsid="0019154c"/>
-  </style:style>
   <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="16.325cm" style:leader-style="dotted" style:leader-text="."/>
-    </style:tab-stops>
-   </style:paragraph-properties>
    <style:text-properties officeooo:rsid="0017f7ea" officeooo:paragraph-rsid="0019154c"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
@@ -377,126 +389,130 @@
      <style:tab-stop style:position="16.325cm" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties officeooo:rsid="0019154c" officeooo:paragraph-rsid="0019154c"/>
+   <style:text-properties officeooo:rsid="0017f7ea" officeooo:paragraph-rsid="0019154c"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0019154c" officeooo:paragraph-rsid="0019154c"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="001dcb49" officeooo:paragraph-rsid="001dcb49"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Title">
-   <style:text-properties officeooo:paragraph-rsid="000a7aa4"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="000bddac" officeooo:paragraph-rsid="000bddac"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="0004fe49" officeooo:paragraph-rsid="000fbbb0"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="000fbbb0"/>
-  </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0005f6f3"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="000dc785"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="00121c6e"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0017f7ea"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0013d878"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="000dc785" officeooo:paragraph-rsid="000dc785"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="000dc785" officeooo:paragraph-rsid="000dc785"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="001dcb49" officeooo:paragraph-rsid="001dcb49"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="0010903c"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="00121c6e"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="0009857e"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="001dcb49"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0010903c" officeooo:paragraph-rsid="0010903c"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0010903c" officeooo:paragraph-rsid="00121c6e"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="00121c6e" officeooo:paragraph-rsid="00121c6e"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="00121c6e" officeooo:paragraph-rsid="00178ec1"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0017f7ea" officeooo:paragraph-rsid="0017f7ea"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="16.325cm" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties officeooo:rsid="0017f7ea" officeooo:paragraph-rsid="0019154c"/>
+   <style:text-properties officeooo:rsid="0019154c" officeooo:paragraph-rsid="0019154c"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0019154c" officeooo:paragraph-rsid="0019154c"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="0019154c" officeooo:paragraph-rsid="001e866a"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="001dcb49" officeooo:paragraph-rsid="001dcb49"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties officeooo:paragraph-rsid="000a7aa4"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="000bddac" officeooo:paragraph-rsid="000bddac"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001f6e8d"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0004fe49" officeooo:paragraph-rsid="000fbbb0"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="000fbbb0"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0005f6f3"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="000dc785"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="00121c6e"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0017f7ea"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0005f6f3" officeooo:paragraph-rsid="0013d878"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="000dc785" officeooo:paragraph-rsid="000dc785"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="000dc785" officeooo:paragraph-rsid="000dc785"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="001dcb49" officeooo:paragraph-rsid="001dcb49"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="0010903c"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="00121c6e"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="0009857e"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0009857e" officeooo:paragraph-rsid="001dcb49"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0010903c" officeooo:paragraph-rsid="0010903c"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0010903c" officeooo:paragraph-rsid="00121c6e"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="00121c6e" officeooo:paragraph-rsid="00121c6e"/>
   </style:style>
   <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0013d878" officeooo:paragraph-rsid="0013d878"/>
+   <style:text-properties officeooo:rsid="00121c6e" officeooo:paragraph-rsid="00178ec1"/>
   </style:style>
   <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0013d878" officeooo:paragraph-rsid="001dcb49"/>
+   <style:text-properties officeooo:rsid="0017f7ea" officeooo:paragraph-rsid="0017f7ea"/>
   </style:style>
   <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="001590dc" officeooo:paragraph-rsid="001590dc"/>
+   <style:text-properties officeooo:rsid="0013d878" officeooo:paragraph-rsid="0013d878"/>
   </style:style>
   <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="001590dc" officeooo:paragraph-rsid="0015c02c"/>
+   <style:text-properties officeooo:rsid="0013d878" officeooo:paragraph-rsid="001dcb49"/>
   </style:style>
   <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0015c02c" officeooo:paragraph-rsid="0015c02c"/>
+   <style:text-properties officeooo:rsid="001590dc" officeooo:paragraph-rsid="001590dc"/>
   </style:style>
   <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="00064a82" officeooo:paragraph-rsid="00064a82"/>
+   <style:text-properties officeooo:rsid="001590dc" officeooo:paragraph-rsid="0015c02c"/>
   </style:style>
   <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="000a3d44" officeooo:paragraph-rsid="000a3d44"/>
+   <style:text-properties officeooo:rsid="0015c02c" officeooo:paragraph-rsid="0015c02c"/>
   </style:style>
   <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0015bab9" officeooo:paragraph-rsid="0015bab9"/>
+   <style:text-properties officeooo:rsid="00064a82" officeooo:paragraph-rsid="00064a82"/>
   </style:style>
   <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="000a3099" officeooo:paragraph-rsid="001dcb49"/>
+   <style:text-properties officeooo:rsid="000a3d44" officeooo:paragraph-rsid="000a3d44"/>
   </style:style>
   <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0015bab9" officeooo:paragraph-rsid="0015bab9"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="000a3099" officeooo:paragraph-rsid="001dcb49"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
    <style:text-properties officeooo:rsid="000a3099" officeooo:paragraph-rsid="000a3099"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="15.743cm" style:leader-style="dotted" style:leader-text="."/>
     </style:tab-stops>
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="000bddac" officeooo:paragraph-rsid="001c4612"/>
-  </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0019154c" officeooo:paragraph-rsid="001e866a"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="00082bf4"/>
@@ -710,11 +726,17 @@
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
-   <style:footer-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0cm" fo:margin-top="0.499cm"/>
+   </style:footer-style>
   </style:page-layout>
  </office:automatic-styles>
  <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">5</text:page-number><text:s/>/ <text:page-count>5</text:page-count></text:p>
+   </style:footer>
+  </style:master-page>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -725,209 +747,209 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P40">TP Filius - <text:span text:style-name="T5">Internet</text:span></text:p>
+   <text:p text:style-name="P42">TP Filius - <text:span text:style-name="T5">Internet</text:span></text:p>
    <text:p text:style-name="Subtitle">Introduction aux réseaux</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P3">Nous allons illustrer internet par le biais d’un logiciel de simulation réseau et d’une situation. Nous allons utiliser le logiciel Filius et mettre en place la situation où Alice accède à une page web.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P39">Faisons d’abord un rappel sur les masques.</text:p>
-   <text:p text:style-name="P1"/>
-   <text:p text:style-name="P3">Procédons par étapes :</text:p>
-   <text:list xml:id="list3016611029" text:style-name="L1">
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P4">Nous allons illustrer internet par le biais d’un logiciel de simulation réseau et d’une situation. Nous allons utiliser le logiciel Filius et mettre en place la situation où Alice accède à une page web.</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P41">Faisons d’abord un rappel sur les masques.</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P4">Procédons par étapes :</text:p>
+   <text:list xml:id="list3446898883" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P42"><text:span text:style-name="T9">Lançons</text:span> l’application : exécuter / rechercher &gt; Filius :</text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T9">Lançons</text:span> l’application : exécuter / rechercher &gt; Filius :</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P43">Si l’espace de travail n’est pas vierge : créer un nouveau.</text:p>
+       <text:p text:style-name="P46">Si l’espace de travail n’est pas vierge : créer un nouveau.</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P49">Connect<text:span text:style-name="T9">ons</text:span> deux machines point à point :</text:p>
+     <text:p text:style-name="P52">Connect<text:span text:style-name="T9">ons</text:span> deux machines point à point :</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list52337519" text:style-name="L2">
+   <text:list xml:id="list1605380919" text:style-name="L2">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P44"><text:bookmark-start text:name="__DdeLink__547_1985948384"/><text:bookmark-start text:name="__DdeLink__549_1985948384"/><text:bookmark-start text:name="__DdeLink__559_1985948384"/><text:bookmark-start text:name="__DdeLink__551_1985948384"/>Glisser-déposer un portable :</text:p>
+       <text:p text:style-name="P47"><text:bookmark-start text:name="__DdeLink__551_1985948384"/><text:bookmark-start text:name="__DdeLink__559_1985948384"/><text:bookmark-start text:name="__DdeLink__549_1985948384"/><text:bookmark-start text:name="__DdeLink__547_1985948384"/>Glisser-déposer un portable :</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P44"><text:bookmark-start text:name="__DdeLink__553_1985948384"/><text:bookmark-start text:name="__DdeLink__555_1985948384"/>Nom : Alice-<text:span text:style-name="T14">192.168.0.10/</text:span><text:span text:style-name="T17">24</text:span><text:span text:style-name="T14">.</text:span></text:p>
+         <text:p text:style-name="P47"><text:bookmark-start text:name="__DdeLink__555_1985948384"/><text:bookmark-start text:name="__DdeLink__553_1985948384"/>Nom : Alice-<text:span text:style-name="T14">192.168.0.10/</text:span><text:span text:style-name="T17">24</text:span><text:span text:style-name="T14">.</text:span></text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P44">Adresse IP : 192.168.0.10</text:p>
+         <text:p text:style-name="P47">Adresse IP : 192.168.0.10</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P51">Masque : 255.255.255.0</text:p>
+         <text:p text:style-name="P54">Masque : 255.255.255.0</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P44">Passerelle : 192.168.0.254<text:bookmark-end text:name="__DdeLink__559_1985948384"/><text:bookmark-end text:name="__DdeLink__551_1985948384"/><text:bookmark-end text:name="__DdeLink__549_1985948384"/><text:bookmark-end text:name="__DdeLink__547_1985948384"/><text:bookmark-end text:name="__DdeLink__555_1985948384"/><text:bookmark-end text:name="__DdeLink__553_1985948384"/></text:p>
+         <text:p text:style-name="P47">Passerelle : 192.168.0.254<text:bookmark-end text:name="__DdeLink__553_1985948384"/><text:bookmark-end text:name="__DdeLink__555_1985948384"/><text:bookmark-end text:name="__DdeLink__547_1985948384"/><text:bookmark-end text:name="__DdeLink__549_1985948384"/><text:bookmark-end text:name="__DdeLink__551_1985948384"/><text:bookmark-end text:name="__DdeLink__559_1985948384"/></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P45">Glisser-déposer un portable :</text:p>
+       <text:p text:style-name="P48">Glisser-déposer un portable :</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P45"><text:bookmark-start text:name="__DdeLink__555_19859483841"/><text:bookmark-start text:name="__DdeLink__1830_1985948384"/><text:bookmark-start text:name="__DdeLink__553_19859483841"/>Nom : <text:span text:style-name="T6">Bob-</text:span><text:span text:style-name="T14">192.168.</text:span><text:span text:style-name="T17">1</text:span><text:span text:style-name="T14">.1</text:span><text:bookmark-end text:name="__DdeLink__1830_1985948384"/><text:span text:style-name="T16">1/</text:span><text:span text:style-name="T17">24</text:span></text:p>
+         <text:p text:style-name="P48"><text:bookmark-start text:name="__DdeLink__553_19859483841"/><text:bookmark-start text:name="__DdeLink__1830_1985948384"/><text:bookmark-start text:name="__DdeLink__555_19859483841"/>Nom : <text:span text:style-name="T6">Bob-</text:span><text:span text:style-name="T14">192.168.</text:span><text:span text:style-name="T17">1</text:span><text:span text:style-name="T14">.1</text:span><text:bookmark-end text:name="__DdeLink__1830_1985948384"/><text:span text:style-name="T16">1/</text:span><text:span text:style-name="T17">24</text:span></text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P45">Adresse IP : 192.168.<text:span text:style-name="T17">1</text:span>.1<text:span text:style-name="T17">1</text:span></text:p>
+         <text:p text:style-name="P48">Adresse IP : 192.168.<text:span text:style-name="T17">1</text:span>.1<text:span text:style-name="T17">1</text:span></text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P51">Masque : 255.255.255.0</text:p>
+         <text:p text:style-name="P54">Masque : 255.255.255.0</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P45">Passerelle : 192.168.0.254<text:bookmark-end text:name="__DdeLink__555_19859483841"/><text:bookmark-end text:name="__DdeLink__553_19859483841"/></text:p>
+         <text:p text:style-name="P48">Passerelle : 192.168.0.254<text:bookmark-end text:name="__DdeLink__553_19859483841"/><text:bookmark-end text:name="__DdeLink__555_19859483841"/></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P52">Cliquer sur câble et relier les <text:span text:style-name="T7">deux</text:span> ordinateurs <text:span text:style-name="T7">entre eux.</text:span></text:p>
+       <text:p text:style-name="P55">Cliquer sur câble et relier les <text:span text:style-name="T7">deux</text:span> ordinateurs <text:span text:style-name="T7">entre eux.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P52"><text:bookmark-start text:name="__DdeLink__580_1985948384"/>Cliquer sur la flèche verte pour passer en mode simulation.<text:bookmark-end text:name="__DdeLink__580_1985948384"/></text:p>
+       <text:p text:style-name="P55"><text:bookmark-start text:name="__DdeLink__580_1985948384"/>Cliquer sur la flèche verte pour passer en mode simulation.<text:bookmark-end text:name="__DdeLink__580_1985948384"/></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P52"><text:bookmark-start text:name="__DdeLink__573_1985948384"/>Cliquer sur Alice <text:bookmark-start text:name="__DdeLink__426_28593727181"/>puis sur le bureau : installation des logiciels.<text:bookmark-end text:name="__DdeLink__426_28593727181"/></text:p>
+       <text:p text:style-name="P55"><text:bookmark-start text:name="__DdeLink__573_1985948384"/>Cliquer sur Alice <text:bookmark-start text:name="__DdeLink__426_28593727181"/>puis sur le bureau : installation des logiciels.<text:bookmark-end text:name="__DdeLink__426_28593727181"/></text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P56">Installer ligne de commande.</text:p>
+         <text:p text:style-name="P59">Installer ligne de commande.</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P56">Appliquer les modifications.<text:bookmark-end text:name="__DdeLink__573_1985948384"/></text:p>
+         <text:p text:style-name="P59">Appliquer les modifications.<text:bookmark-end text:name="__DdeLink__573_1985948384"/></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P57">Cliquer droit sur Alice <text:span text:style-name="T8">depuis l’espace de simulation :</text:span></text:p>
+       <text:p text:style-name="P60">Cliquer droit sur Alice <text:span text:style-name="T8">depuis l’espace de simulation :</text:span></text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P57"><text:span text:style-name="T8">A</text:span>fficher l’échange de données.</text:p>
+         <text:p text:style-name="P60"><text:soft-page-break/><text:span text:style-name="T8">A</text:span>fficher l’échange de données.</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P58">Cliquer gauche sur Alice pour afficher le bureau :</text:p>
+       <text:p text:style-name="P61">Cliquer gauche sur Alice pour afficher le bureau :</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P58"><text:soft-page-break/>Lancer l’invite de commande.</text:p>
+         <text:p text:style-name="P61">Lancer l’invite de commande.</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P59"><text:span text:style-name="T14">Entrer la commande</text:span> : <text:span text:style-name="T10">ping </text:span>192.168.0.10</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P22"/>
-   <text:p text:style-name="P22"><text:span text:style-name="T13">Avant de continuer, posons-nous quelques questions : i</text:span><text:bookmark-start text:name="__DdeLink__584_1985948384"/><text:bookmark-start text:name="__DdeLink__586_1985948384"/>l y-t-il un échange de données ? Le ping fonctionne-t-il ? Quelle machine répond ?<text:bookmark-end text:name="__DdeLink__584_1985948384"/><text:bookmark-end text:name="__DdeLink__586_1985948384"/></text:p>
-   <text:p text:style-name="P23"><text:tab/></text:p>
-   <text:p text:style-name="P23"><text:tab/></text:p>
-   <text:p text:style-name="P23"><text:tab/></text:p>
-   <text:p text:style-name="P22"/>
-   <text:list xml:id="list105142080847883" text:continue-numbering="true" text:style-name="L2">
-    <text:list-item>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P46"><text:span text:style-name="T9">Cliquer sur le marteau, pour p</text:span><text:bookmark-start text:name="__DdeLink__588_1985948384"/><text:span text:style-name="T3">asser en mode conception</text:span><text:bookmark-end text:name="__DdeLink__588_1985948384"/><text:span text:style-name="T3">.</text:span></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P58">Cliquer sur Bob :</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P47">Nom : <text:span text:style-name="T6">Bob-</text:span><text:span text:style-name="T14">192.168.0.11</text:span></text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P58">Mettre à jour l’ip : 192.168.0.11</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P53">Cliquer sur la flèche verte pour passer en mode simulation.</text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P58">Refaire un ping mais vers <text:bookmark-start text:name="__DdeLink__582_1985948384"/>192.168.0.11<text:bookmark-end text:name="__DdeLink__582_1985948384"/> :</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P60">Depuis Alice.</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P59">ping 192.168.0.11</text:p>
+         <text:p text:style-name="P62"><text:span text:style-name="T14">Entrer la commande</text:span> : <text:span text:style-name="T10">ping </text:span>192.168.0.10</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P22"/>
-   <text:p text:style-name="P22"><text:span text:style-name="T13">Reposons-nous le</text:span><text:span text:style-name="T16">s</text:span><text:span text:style-name="T13"> questions précédentes : i</text:span>l y-t-il un échange de données ? Le ping fonctionne-t-il ? Quelle machine répond ?</text:p>
-   <text:p text:style-name="P23"><text:bookmark-start text:name="__DdeLink__1828_1985948384"/><text:tab/><text:bookmark-end text:name="__DdeLink__1828_1985948384"/></text:p>
-   <text:p text:style-name="P23"><text:tab/></text:p>
-   <text:p text:style-name="P23"><text:tab/></text:p>
-   <text:p text:style-name="P22"/>
-   <text:list xml:id="list105140852029332" text:continue-numbering="true" text:style-name="L2">
+   <text:p text:style-name="P23"/>
+   <text:p text:style-name="P23"><text:span text:style-name="T13">Avant de continuer, posons-nous quelques questions : i</text:span><text:bookmark-start text:name="__DdeLink__584_1985948384"/><text:bookmark-start text:name="__DdeLink__586_1985948384"/>l y-t-il un échange de données ? Le ping fonctionne-t-il ? Quelle machine répond ?<text:bookmark-end text:name="__DdeLink__584_1985948384"/><text:bookmark-end text:name="__DdeLink__586_1985948384"/></text:p>
+   <text:p text:style-name="P24"><text:tab/></text:p>
+   <text:p text:style-name="P24"><text:tab/></text:p>
+   <text:p text:style-name="P24"><text:tab/></text:p>
+   <text:p text:style-name="P23"/>
+   <text:list xml:id="list85258588456073" text:continue-numbering="true" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P62">Connectons les machines <text:span text:style-name="T10">à un routeur, </text:span>à travers un switch :</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P64">Connecter à travers un switch :</text:p>
+       <text:p text:style-name="P49"><text:span text:style-name="T9">Cliquer sur le marteau, pour p</text:span><text:bookmark-start text:name="__DdeLink__588_1985948384"/><text:span text:style-name="T3">asser en mode conception</text:span><text:bookmark-end text:name="__DdeLink__588_1985948384"/><text:span text:style-name="T3">.</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P61">Cliquer sur Bob :</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P48"><text:span text:style-name="T4">P</text:span><text:span text:style-name="T3">asser en mode conception (ie le marteau).</text:span></text:p>
+         <text:p text:style-name="P50">Nom : <text:span text:style-name="T6">Bob-</text:span><text:span text:style-name="T14">192.168.0.11</text:span></text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P44">Glisser-déposer un switch.</text:p>
+         <text:p text:style-name="P61">Mettre à jour l’ip : 192.168.0.11</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P56">Cliquer sur la flèche verte pour passer en mode simulation.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P61">Refaire un ping mais vers <text:bookmark-start text:name="__DdeLink__582_1985948384"/>192.168.0.11<text:bookmark-end text:name="__DdeLink__582_1985948384"/> :</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P63">Depuis Alice.</text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P51">Sur le câble entre Alice et Bob :</text:p>
+         <text:p text:style-name="P62">ping 192.168.0.11</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P23"/>
+   <text:p text:style-name="P23"><text:span text:style-name="T13">Reposons-nous le</text:span><text:span text:style-name="T16">s</text:span><text:span text:style-name="T13"> questions précédentes : i</text:span>l y-t-il un échange de données ? Le ping fonctionne-t-il ? Quelle machine répond ?</text:p>
+   <text:p text:style-name="P24"><text:bookmark-start text:name="__DdeLink__1828_1985948384"/><text:tab/><text:bookmark-end text:name="__DdeLink__1828_1985948384"/></text:p>
+   <text:p text:style-name="P24"><text:tab/></text:p>
+   <text:p text:style-name="P24"><text:tab/></text:p>
+   <text:p text:style-name="P23"/>
+   <text:list xml:id="list85259994071274" text:continue-numbering="true" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P64">Connectons les machines <text:span text:style-name="T10">à un routeur, </text:span>à travers un switch :</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P66">Connecter à travers un switch :</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P51"><text:span text:style-name="T4">P</text:span><text:span text:style-name="T3">asser en mode conception (ie le marteau).</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P47">Glisser-déposer un switch.</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P54">Sur le câble entre Alice et Bob :</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P51">Clic-droit, supprimer.</text:p>
+           <text:p text:style-name="P54">Clic-droit, supprimer.</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P50"><text:span text:style-name="T9">Câbler</text:span> <text:span text:style-name="T9">les ordinateurs au switch.</text:span></text:p>
+         <text:p text:style-name="P53"><text:span text:style-name="T9">Câbler</text:span> <text:span text:style-name="T9">les ordinateurs au switch.</text:span></text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P62">Connecte<text:span text:style-name="T10">r</text:span> les machines à un routeur :</text:p>
+       <text:p text:style-name="P64"><text:soft-page-break/>Connecte<text:span text:style-name="T10">r</text:span> les machines à un routeur :</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P63">Glisser-déposer un<text:span text:style-name="T16"> routeur avec 2 interfaces.</text:span></text:p>
+         <text:p text:style-name="P65">Glisser-déposer un<text:span text:style-name="T16"> routeur avec 2 interfaces.</text:span></text:p>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P62">Câbler le routeur :</text:p>
+         <text:p text:style-name="P64">Câbler le routeur :</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P51"><text:soft-page-break/>Relier le switch au routeur.</text:p>
+           <text:p text:style-name="P54">Relier le switch au routeur.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P51">Sur le routeur :</text:p>
+           <text:p text:style-name="P54">Sur le routeur :</text:p>
            <text:list>
             <text:list-item>
-             <text:p text:style-name="P51">Sélectionner l’onglet rouge, avec le câble.</text:p>
+             <text:p text:style-name="P54">Sélectionner l’onglet rouge, avec le câble.</text:p>
              <text:list>
               <text:list-item>
-               <text:p text:style-name="P51">Adresse : 192.168.0.254</text:p>
+               <text:p text:style-name="P54">Adresse : 192.168.0.254</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P51">Masque : 255.255.255.0</text:p>
+               <text:p text:style-name="P54">Masque : 255.255.255.0</text:p>
               </text:list-item>
              </text:list>
             </text:list-item>
             <text:list-item>
-             <text:p text:style-name="P51">Sélectionner l’autre interface (onglet) :</text:p>
+             <text:p text:style-name="P54">Sélectionner l’autre interface (onglet) :</text:p>
              <text:list>
               <text:list-item>
-               <text:p text:style-name="P51">Adresse : 42.0.0.10</text:p>
+               <text:p text:style-name="P54">Adresse : 42.0.0.10</text:p>
               </text:list-item>
               <text:list-item>
-               <text:p text:style-name="P51">Masque : 255.0.0.0</text:p>
+               <text:p text:style-name="P54">Masque : 255.0.0.0</text:p>
               </text:list-item>
              </text:list>
             </text:list-item>
@@ -936,160 +958,160 @@
          </text:list>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P66">Nous pouvons faire des pings pour vérifier les interconnexions.</text:p>
+         <text:p text:style-name="P68">Nous pouvons faire des pings pour vérifier les interconnexions.</text:p>
          <text:list>
           <text:list-item>
-           <text:p text:style-name="P60">Observons la fenêtre d’échange de données.</text:p>
+           <text:p text:style-name="P63">Observons la fenêtre d’échange de données.</text:p>
           </text:list-item>
           <text:list-item>
-           <text:p text:style-name="P60">Observerons les couleurs sur les câbles.</text:p>
+           <text:p text:style-name="P63">Observerons les couleurs sur les câbles.</text:p>
           </text:list-item>
          </text:list>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P34">Mettons en œuvre un accès sur un serveur web :</text:p>
+   <text:list xml:id="list85260468101066" text:continue-numbering="true" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P64"><text:span text:style-name="T10">Connectons</text:span> un serveur W<text:span text:style-name="T13">eb</text:span> :</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P68">Glisser-déposer un switch :</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P68">Cocher afficher comme un nuage.</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P68">Nom : Internet</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P69">Glisser-déposer u<text:span text:style-name="T9">n</text:span><text:span text:style-name="T1"> ordinateur :</text:span></text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P57">Nommer « <text:span text:style-name="T11">Serveur</text:span> W<text:span text:style-name="T13">eb</text:span> » :</text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P70">IP : <text:span text:style-name="T10">4</text:span><text:span text:style-name="T16">2</text:span><text:span text:style-name="T10">.0.0.200</text:span></text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P63">Passerelle : 4<text:span text:style-name="T16">2</text:span>.0.0.10</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P71">Masque : 255.0.0.0</text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P67">Câbler le routeur vers « <text:span text:style-name="T12">Internet » :</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P67"><text:span text:style-name="T13">Câbler </text:span><text:span text:style-name="T11">le serveur</text:span> <text:span text:style-name="T13">Web </text:span><text:span text:style-name="T16">vers « internet ».</text:span><text:bookmark text:name="__DdeLink__1792_1985948384"/></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P36"/>
+   <text:p text:style-name="P40">Lorsque le routeur sur l’interface <text:span text:style-name="T16">192.168.0.254,</text:span> reçoit un message d’Alice <text:span text:style-name="T16">à destination du serveur web</text:span>, sur quelle interface va-t-il passer le message ?</text:p>
+   <text:p text:style-name="P37"><text:tab/></text:p>
+   <text:p text:style-name="P38"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P38">Quel est le rôle du routeur ?</text:p>
+   <text:p text:style-name="P38"><text:tab/></text:p>
+   <text:p text:style-name="P37"/>
+   <text:p text:style-name="P37">Comment s’appelle le principe mis en œuvre ?</text:p>
+   <text:p text:style-name="P37"><text:tab/></text:p>
+   <text:p text:style-name="P28"/>
+   <text:list xml:id="list85259566680064" text:continue-numbering="true" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P71">Accédons à une page W<text:span text:style-name="T13">eb</text:span>, hébergée sur <text:span text:style-name="T13">le s</text:span>erveur <text:span text:style-name="T13">Web</text:span> :</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P57"><text:bookmark-start text:name="__DdeLink__563_1985948384"/>Cliquer sur la flèche verte pour passer en mode simulation.<text:bookmark-end text:name="__DdeLink__563_1985948384"/></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P58"><text:bookmark-start text:name="__DdeLink__566_1985948384"/><text:bookmark-start text:name="__DdeLink__569_1985948384"/>Cliquer sur Alice <text:bookmark-start text:name="__DdeLink__426_2859372718"/>puis sur le bureau : </text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P58"><text:span text:style-name="T16">I</text:span>nstallation des logiciels<text:bookmark-end text:name="__DdeLink__566_1985948384"/><text:bookmark-end text:name="__DdeLink__569_1985948384"/><text:bookmark-end text:name="__DdeLink__426_2859372718"/>.</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P57">Installer Navigateur web.</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P57">A<text:bookmark-start text:name="__DdeLink__428_2859372718"/>ppliquer les modifications.<text:bookmark-end text:name="__DdeLink__428_2859372718"/></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P72"><text:bookmark-start text:name="__DdeLink__442_2859372718"/><text:bookmark-start text:name="__DdeLink__439_2859372718"/>Cliquer sur <text:span text:style-name="T11">le serveur</text:span> <text:span text:style-name="T13">Web</text:span>, <text:span text:style-name="T2">puis sur le bureau :</text:span></text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P72"><text:span text:style-name="T16">I</text:span><text:span text:style-name="T2">nstallation des logiciels</text:span><text:bookmark-end text:name="__DdeLink__439_2859372718"/><text:span text:style-name="T2">.</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P73">Installer Serveur W<text:span text:style-name="T13">eb</text:span>.</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P73">Appliquer les modifications.</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P73">Démarrer le service.<text:bookmark-end text:name="__DdeLink__442_2859372718"/></text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12">Alice peut désormais utiliser son navigateur web pour consulter une page sur le serveur Web.</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P39">Pour aller plus loin, nous pouvons ajouter un ordinateur dans le réseau d’Alice et de Bob, auquel nous ajouterons le rôle de serveur DNS et DHCP.</text:p>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P39">Respectivement Domain Name System : correspondance entre nom de domaine et IP ; Dynamic Host Configuration Protocol, permettant une configuration IP automatique mais qui pourrait changer d’une attribution à l’autre : <text:span text:style-name="T16">pas de</text:span> serveurs en DHCP.</text:p>
+   <text:p text:style-name="P43">Pour conclure, quelques questions :</text:p>
+   <text:list xml:id="list866740083" text:style-name="L3">
+    <text:list-item>
+     <text:p text:style-name="P74"><text:bookmark-start text:name="__DdeLink__438_1888031026"/>Quelle est l’adresse du réseau <text:span text:style-name="T16">d’Alice et Bob, </text:span><text:span text:style-name="T13">avec </text:span><text:span text:style-name="T17">le</text:span><text:span text:style-name="T13"> masque</text:span><text:bookmark-end text:name="__DdeLink__438_1888031026"/><text:span text:style-name="T13"> </text:span><text:span text:style-name="T17">associé</text:span> ? </text:p>
+     <text:p text:style-name="P74"><text:tab/></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P33"/>
-   <text:p text:style-name="P33">Mettons en œuvre un accès sur un serveur web :</text:p>
-   <text:list xml:id="list105141572226833" text:continue-numbering="true" text:style-name="L2">
+   <text:list xml:id="list85259444117368" text:continue-numbering="true" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P62"><text:span text:style-name="T10">Connectons</text:span> un serveur W<text:span text:style-name="T13">eb</text:span> :</text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P66">Glisser-déposer un switch :</text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P66">Cocher afficher comme un nuage.</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P66">Nom : Internet</text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P67">Glisser-déposer u<text:span text:style-name="T9">n</text:span><text:span text:style-name="T1"> ordinateur :</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P54">Nommer « <text:span text:style-name="T11">Serveur</text:span> W<text:span text:style-name="T13">eb</text:span> » :</text:p>
-         <text:list>
-          <text:list-item>
-           <text:p text:style-name="P68">IP : <text:span text:style-name="T10">4</text:span><text:span text:style-name="T16">2</text:span><text:span text:style-name="T10">.0.0.200</text:span></text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P60">Passerelle : 4<text:span text:style-name="T16">2</text:span>.0.0.10</text:p>
-          </text:list-item>
-          <text:list-item>
-           <text:p text:style-name="P69">Masque : 255.0.0.0</text:p>
-          </text:list-item>
-         </text:list>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P65">Câbler le routeur vers « <text:span text:style-name="T12">Internet » :</text:span></text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P65"><text:span text:style-name="T13">Câbler </text:span><text:span text:style-name="T11">le serveur</text:span> <text:span text:style-name="T13">Web </text:span><text:span text:style-name="T16">vers « internet ».</text:span><text:bookmark text:name="__DdeLink__1792_1985948384"/></text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
+     <text:p text:style-name="P74">Quelle est l’adresse du <text:span text:style-name="T16">routeur sur internet, </text:span><text:span text:style-name="T13">avec </text:span><text:span text:style-name="T17">le</text:span><text:span text:style-name="T13"> masque</text:span> ?</text:p>
+     <text:p text:style-name="P74"><text:tab/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P35"/>
-   <text:p text:style-name="P73">Lorsque le routeur sur l’interface <text:span text:style-name="T16">192.168.0.254,</text:span> reçoit un message d’Alice <text:span text:style-name="T16">à destination du serveur web</text:span>, sur quelle interface va-t-il passer le message ?</text:p>
-   <text:p text:style-name="P36"><text:tab/></text:p>
-   <text:p text:style-name="P37"/>
-   <text:p text:style-name="P37">Quel est le rôle du routeur ?</text:p>
-   <text:p text:style-name="P37"><text:tab/></text:p>
-   <text:p text:style-name="P36"/>
-   <text:p text:style-name="P36"><text:soft-page-break/>Comment s’appelle le principe mis en œuvre ?</text:p>
-   <text:p text:style-name="P36"><text:tab/></text:p>
-   <text:p text:style-name="P27"/>
-   <text:list xml:id="list105140723308965" text:continue-numbering="true" text:style-name="L2">
+   <text:p text:style-name="P33"/>
+   <text:list xml:id="list85260296491704" text:continue-numbering="true" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P69">Accédons à une page W<text:span text:style-name="T13">eb</text:span>, hébergée sur <text:span text:style-name="T13">le s</text:span>erveur <text:span text:style-name="T13">Web</text:span> :</text:p>
-     <text:list>
-      <text:list-item>
-       <text:p text:style-name="P54"><text:bookmark-start text:name="__DdeLink__563_1985948384"/>Cliquer sur la flèche verte pour passer en mode simulation.<text:bookmark-end text:name="__DdeLink__563_1985948384"/></text:p>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P55"><text:bookmark-start text:name="__DdeLink__569_1985948384"/><text:bookmark-start text:name="__DdeLink__566_1985948384"/>Cliquer sur Alice <text:bookmark-start text:name="__DdeLink__426_2859372718"/>puis sur le bureau : </text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P55"><text:span text:style-name="T16">I</text:span>nstallation des logiciels<text:bookmark-end text:name="__DdeLink__426_2859372718"/><text:bookmark-end text:name="__DdeLink__569_1985948384"/><text:bookmark-end text:name="__DdeLink__566_1985948384"/>.</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P54">Installer Navigateur web.</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P54">A<text:bookmark-start text:name="__DdeLink__428_2859372718"/>ppliquer les modifications.<text:bookmark-end text:name="__DdeLink__428_2859372718"/></text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-      <text:list-item>
-       <text:p text:style-name="P70"><text:bookmark-start text:name="__DdeLink__439_2859372718"/><text:bookmark-start text:name="__DdeLink__442_2859372718"/>Cliquer sur <text:span text:style-name="T11">le serveur</text:span> <text:span text:style-name="T13">Web</text:span>, <text:span text:style-name="T2">puis sur le bureau :</text:span></text:p>
-       <text:list>
-        <text:list-item>
-         <text:p text:style-name="P70"><text:span text:style-name="T16">I</text:span><text:span text:style-name="T2">nstallation des logiciels</text:span><text:bookmark-end text:name="__DdeLink__439_2859372718"/><text:span text:style-name="T2">.</text:span></text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P71">Installer Serveur W<text:span text:style-name="T13">eb</text:span>.</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P71">Appliquer les modifications.</text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P71">Démarrer le service.<text:bookmark-end text:name="__DdeLink__442_2859372718"/></text:p>
-        </text:list-item>
-       </text:list>
-      </text:list-item>
-     </text:list>
+     <text:p text:style-name="P74">Quelle phrase définit un serveur ou un service ?</text:p>
+     <text:p text:style-name="P74"><text:tab/><text:tab/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P11"/>
-   <text:p text:style-name="P11">Alice peut désormais utiliser son navigateur web pour consulter une page sur le serveur Web.</text:p>
-   <text:p text:style-name="P11"/>
-   <text:p text:style-name="P38">Pour aller plus loin, nous pouvons ajouter un ordinateur dans le réseau d’Alice et de Bob, auquel nous ajouterons le rôle de serveur DNS et DHCP.</text:p>
-   <text:p text:style-name="P38"/>
-   <text:p text:style-name="P38">Respectivement Domain Name System : correspondance entre nom de domaine et IP ; Dynamic Host Configuration Protocol, permettant une configuration IP automatique mais qui pourrait changer d’une attribution à l’autre : <text:span text:style-name="T16">pas de</text:span> serveurs en DHCP.</text:p>
-   <text:p text:style-name="P41">Pour conclure, quelques questions :</text:p>
-   <text:list xml:id="list1847131812" text:style-name="L3">
+   <text:p text:style-name="P33"/>
+   <text:list xml:id="list85259861442804" text:continue-numbering="true" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P72"><text:bookmark-start text:name="__DdeLink__438_1888031026"/>Quelle est l’adresse du réseau <text:span text:style-name="T16">d’Alice et Bob, </text:span><text:span text:style-name="T13">avec </text:span><text:span text:style-name="T17">le</text:span><text:span text:style-name="T13"> masque</text:span><text:bookmark-end text:name="__DdeLink__438_1888031026"/><text:span text:style-name="T13"> </text:span><text:span text:style-name="T17">associé</text:span> ? </text:p>
-     <text:p text:style-name="P72"><text:tab/></text:p>
+     <text:p text:style-name="P74">Que permet un serveur W<text:span text:style-name="T13">eb</text:span> ?</text:p>
+     <text:p text:style-name="P74"><text:tab/></text:p>
+     <text:p text:style-name="P74"/>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P74">Le réseau mis en œuvre est-il une illustration d’internet ? Quelle phrase définit internet ?<text:tab/><text:tab/><text:tab/></text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P32"/>
-   <text:list xml:id="list105141218404442" text:continue-numbering="true" text:style-name="L3">
+   <text:p text:style-name="P33"/>
+   <text:list xml:id="list85260076786569" text:continue-numbering="true" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P72">Quelle est l’adresse du <text:span text:style-name="T16">routeur sur internet, </text:span><text:span text:style-name="T13">avec </text:span><text:span text:style-name="T17">le</text:span><text:span text:style-name="T13"> masque</text:span> ?</text:p>
-     <text:p text:style-name="P72"><text:tab/></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P32"/>
-   <text:list xml:id="list105141392408793" text:continue-numbering="true" text:style-name="L3">
-    <text:list-item>
-     <text:p text:style-name="P72">Quelle phrase définit un serveur ou un service ?</text:p>
-     <text:p text:style-name="P72"><text:tab/><text:tab/></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P32"/>
-   <text:list xml:id="list105141116809565" text:continue-numbering="true" text:style-name="L3">
-    <text:list-item>
-     <text:p text:style-name="P72">Que permet un serveur W<text:span text:style-name="T13">eb</text:span> ?</text:p>
-     <text:p text:style-name="P72"><text:tab/></text:p>
-     <text:p text:style-name="P72"/>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P72">Le réseau mis en œuvre est-il une illustration d’internet ? Quelle phrase définit internet ?<text:tab/><text:tab/><text:tab/></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P32"/>
-   <text:list xml:id="list105142400582359" text:continue-numbering="true" text:style-name="L3">
-    <text:list-item>
-     <text:p text:style-name="P72"><text:span text:style-name="T15">Q</text:span>uelle est la différence entre internet et le web ? <text:tab/><text:tab/><text:tab/></text:p>
+     <text:p text:style-name="P74"><text:span text:style-name="T15">Q</text:span>uelle est la différence entre internet et le web ? <text:tab/><text:tab/><text:tab/></text:p>
     </text:list-item>
    </text:list>
   </office:text>
