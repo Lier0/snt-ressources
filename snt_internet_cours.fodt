@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2022-12-29T12:52:15.792324764</meta:creation-date><dc:date>2023-03-14T08:55:03.679852249</dc:date><meta:editing-duration>PT3H42M48S</meta:editing-duration><meta:editing-cycles>32</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="4" meta:object-count="0" meta:page-count="10" meta:paragraph-count="82" meta:word-count="1337" meta:character-count="8399" meta:non-whitespace-character-count="7152"/></office:meta>
+ <office:meta><meta:creation-date>2022-12-29T12:52:15.792324764</meta:creation-date><dc:date>2023-03-14T11:10:58.973044481</dc:date><meta:editing-duration>PT3H46M58S</meta:editing-duration><meta:editing-cycles>33</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="4" meta:object-count="0" meta:page-count="10" meta:paragraph-count="82" meta:word-count="1342" meta:character-count="8428" meta:non-whitespace-character-count="7176"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">206375</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">165312</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">34556</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">13681</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">17939</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">208668</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">20091</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">169353</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">206375</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">165312</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">34555</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">220054</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">178991</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -94,7 +94,7 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3866354</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3983174</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -116,7 +116,7 @@
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
@@ -157,7 +157,7 @@
   <draw:stroke-dash draw:name="Dash" draw:style="rect" draw:dots1="1" draw:dots1-length="300%" draw:distance="300%"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="OpenDyslexic" fo:font-size="12pt" fo:language="fr" fo:country="FR" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -409,336 +409,336 @@
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0008aa2c" officeooo:paragraph-rsid="0008aa2c"/>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0008aa2c" officeooo:paragraph-rsid="0008aa2c"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000bbf0d" officeooo:paragraph-rsid="000bbf0d"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0008aa2c" officeooo:paragraph-rsid="0008aa2c"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="000bbf0d" officeooo:paragraph-rsid="000bbf0d"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000dfd7f"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000bbf0d" officeooo:paragraph-rsid="000bbf0d"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000efac2" officeooo:paragraph-rsid="000efac2"/>
+   <style:text-properties officeooo:paragraph-rsid="000dfd7f"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="000efac2" officeooo:paragraph-rsid="000efac2"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001047af" officeooo:paragraph-rsid="001047af"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000efac2" officeooo:paragraph-rsid="000efac2"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001047af" officeooo:paragraph-rsid="0015ee77"/>
+   <style:text-properties officeooo:rsid="001047af" officeooo:paragraph-rsid="001047af"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="001047af" officeooo:paragraph-rsid="0015ee77"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="001047af" officeooo:paragraph-rsid="001047af"/>
+   <style:text-properties officeooo:rsid="001047af" officeooo:paragraph-rsid="0015ee77"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0012ac48" officeooo:paragraph-rsid="0012ac48"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001047af" officeooo:paragraph-rsid="001047af"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0012ac48" officeooo:paragraph-rsid="0012ac48"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0012ac48"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0012ac48" officeooo:paragraph-rsid="0012ac48"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0014083c" officeooo:paragraph-rsid="0014083c"/>
+   <style:text-properties officeooo:paragraph-rsid="0012ac48"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0014083c" officeooo:paragraph-rsid="0014083c"/>
   </style:style>
   <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00140ed6" officeooo:paragraph-rsid="00140ed6"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0014083c" officeooo:paragraph-rsid="0014083c"/>
   </style:style>
   <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="00140ed6" officeooo:paragraph-rsid="00140ed6"/>
   </style:style>
   <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0014a702" officeooo:paragraph-rsid="0014a702"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00140ed6" officeooo:paragraph-rsid="00140ed6"/>
   </style:style>
   <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0014a702" officeooo:paragraph-rsid="0014a702"/>
   </style:style>
   <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="0014a702" officeooo:paragraph-rsid="00394ba0"/>
+   <style:text-properties officeooo:rsid="0014a702" officeooo:paragraph-rsid="0014a702"/>
   </style:style>
   <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000dfd7f" officeooo:paragraph-rsid="0015ee77"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0014a702" officeooo:paragraph-rsid="00394ba0"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="000dfd7f" officeooo:paragraph-rsid="0015ee77"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000cbc46" officeooo:paragraph-rsid="000cbc46"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000dfd7f" officeooo:paragraph-rsid="0015ee77"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="000cbc46" officeooo:paragraph-rsid="000cbc46"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0015b0c0" officeooo:paragraph-rsid="000cbc46"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000cbc46" officeooo:paragraph-rsid="000cbc46"/>
   </style:style>
   <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0015b0c0" officeooo:paragraph-rsid="000cbc46"/>
   </style:style>
   <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001c6df3" officeooo:paragraph-rsid="001c6df3"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0015b0c0" officeooo:paragraph-rsid="000cbc46"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001c6df3" officeooo:paragraph-rsid="001e42f1"/>
+   <style:text-properties officeooo:rsid="001c6df3" officeooo:paragraph-rsid="001c6df3"/>
   </style:style>
   <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="001c6df3" officeooo:paragraph-rsid="001c6df3"/>
+   <style:text-properties officeooo:rsid="001c6df3" officeooo:paragraph-rsid="001e42f1"/>
   </style:style>
   <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="001c6df3" officeooo:paragraph-rsid="001e42f1"/>
+   <style:text-properties officeooo:rsid="001c6df3" officeooo:paragraph-rsid="001c6df3"/>
   </style:style>
   <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00219e77" officeooo:paragraph-rsid="00219e77"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001c6df3" officeooo:paragraph-rsid="001e42f1"/>
   </style:style>
   <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="00219e77" officeooo:paragraph-rsid="00219e77"/>
   </style:style>
   <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00219e77" officeooo:paragraph-rsid="003975d5"/>
+   <style:text-properties officeooo:rsid="00219e77" officeooo:paragraph-rsid="00219e77"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0022342a" officeooo:paragraph-rsid="0022342a"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00219e77" officeooo:paragraph-rsid="003975d5"/>
   </style:style>
   <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0022342a" officeooo:paragraph-rsid="0022342a"/>
   </style:style>
   <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0023d874" officeooo:paragraph-rsid="0023d874"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0022342a" officeooo:paragraph-rsid="0022342a"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0023d874" officeooo:paragraph-rsid="0023d874"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0022342a"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0023d874" officeooo:paragraph-rsid="0023d874"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0025a901" officeooo:paragraph-rsid="0025a901"/>
+   <style:text-properties officeooo:paragraph-rsid="0022342a"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0025a901" officeooo:paragraph-rsid="0026d20f"/>
+   <style:text-properties officeooo:rsid="0025a901" officeooo:paragraph-rsid="0025a901"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="0025a901" officeooo:paragraph-rsid="0025a901"/>
+   <style:text-properties officeooo:rsid="0025a901" officeooo:paragraph-rsid="0026d20f"/>
   </style:style>
   <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="0025a901" officeooo:paragraph-rsid="0026d20f"/>
+   <style:text-properties officeooo:rsid="0025a901" officeooo:paragraph-rsid="0025a901"/>
   </style:style>
   <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0026d20f" officeooo:paragraph-rsid="0029a465"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0025a901" officeooo:paragraph-rsid="0026d20f"/>
   </style:style>
   <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0026d20f" officeooo:paragraph-rsid="0029a465"/>
   </style:style>
   <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0029a465" officeooo:paragraph-rsid="0029a465"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0026d20f" officeooo:paragraph-rsid="0029a465"/>
   </style:style>
   <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0029a465" officeooo:paragraph-rsid="0029a465"/>
   </style:style>
   <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00149170" officeooo:paragraph-rsid="00149170"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0029a465" officeooo:paragraph-rsid="0029a465"/>
   </style:style>
   <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00149170" officeooo:paragraph-rsid="002cc3e4"/>
+   <style:text-properties officeooo:rsid="00149170" officeooo:paragraph-rsid="00149170"/>
   </style:style>
   <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="00149170" officeooo:paragraph-rsid="002cc3e4"/>
   </style:style>
   <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001e42f1" officeooo:paragraph-rsid="001e42f1"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00149170" officeooo:paragraph-rsid="002cc3e4"/>
   </style:style>
   <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="001e42f1" officeooo:paragraph-rsid="001e42f1"/>
   </style:style>
   <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="002825a6" officeooo:paragraph-rsid="0029a465"/>
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="001e42f1" officeooo:paragraph-rsid="001e42f1"/>
   </style:style>
   <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="002825a6" officeooo:paragraph-rsid="0029a465"/>
   </style:style>
   <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="002dcd24" officeooo:paragraph-rsid="002dcd24"/>
+   <style:text-properties officeooo:rsid="002825a6" officeooo:paragraph-rsid="0029a465"/>
   </style:style>
   <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="002f33ae" officeooo:paragraph-rsid="002f33ae"/>
+   <style:text-properties officeooo:rsid="002dcd24" officeooo:paragraph-rsid="002dcd24"/>
   </style:style>
   <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="002fba04" officeooo:paragraph-rsid="002fba04"/>
+   <style:text-properties officeooo:rsid="002f33ae" officeooo:paragraph-rsid="002f33ae"/>
   </style:style>
   <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="003032d4" officeooo:paragraph-rsid="003032d4"/>
+   <style:text-properties officeooo:rsid="002fba04" officeooo:paragraph-rsid="002fba04"/>
   </style:style>
   <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="000dfd7f"/>
+   <style:text-properties officeooo:rsid="003032d4" officeooo:paragraph-rsid="003032d4"/>
   </style:style>
   <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="0012ac48"/>
+   <style:text-properties officeooo:paragraph-rsid="000dfd7f"/>
   </style:style>
   <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="0022342a"/>
+   <style:text-properties officeooo:paragraph-rsid="0012ac48"/>
   </style:style>
   <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00386119" officeooo:paragraph-rsid="00386119"/>
+   <style:text-properties officeooo:paragraph-rsid="0022342a"/>
   </style:style>
   <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="00386119" officeooo:paragraph-rsid="00394ba0"/>
+   <style:text-properties officeooo:rsid="00386119" officeooo:paragraph-rsid="00386119"/>
   </style:style>
   <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00386119" officeooo:paragraph-rsid="00394ba0"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="00386119" officeooo:paragraph-rsid="003975d5"/>
   </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
   <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="00219e77"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:break-before="page"/>
   </style:style>
   <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties style:font-name="OpenDyslexic" fo:font-size="16.1000003814697pt" fo:font-weight="bold" officeooo:rsid="00219e77" officeooo:paragraph-rsid="00219e77" style:font-name-asian="DejaVu Sans" style:font-size-asian="16.1000003814697pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="16.1000003814697pt" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:paragraph-rsid="00219e77"/>
   </style:style>
   <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:break-before="page"/>
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties style:font-name="OpenDyslexic" fo:font-size="16.1000003814697pt" fo:font-weight="bold" officeooo:rsid="00219e77" officeooo:paragraph-rsid="00219e77" style:font-name-asian="DejaVu Sans" style:font-size-asian="16.1000003814697pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="16.1000003814697pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:break-before="page"/>
+   <style:text-properties style:font-name="OpenDyslexic" fo:font-size="16.1000003814697pt" fo:font-weight="bold" officeooo:rsid="00219e77" officeooo:paragraph-rsid="00219e77" style:font-name-asian="DejaVu Sans" style:font-size-asian="16.1000003814697pt" style:font-weight-asian="bold" style:font-name-complex="FreeSans" style:font-size-complex="16.1000003814697pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:break-before="page"/>
    <style:text-properties officeooo:rsid="0029a465" officeooo:paragraph-rsid="0029a465"/>
   </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:paragraph-rsid="002acc95"/>
   </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="002cc3e4" officeooo:paragraph-rsid="002cc3e4"/>
   </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:text-properties officeooo:rsid="002cc3e4" officeooo:paragraph-rsid="002cc3e4"/>
-  </style:style>
   <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Table_20_Contents">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="002acc95"/>
+   <style:text-properties officeooo:rsid="002cc3e4" officeooo:paragraph-rsid="002cc3e4"/>
   </style:style>
   <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties style:text-outline="true" officeooo:rsid="002cc3e4" officeooo:paragraph-rsid="002cc3e4"/>
+   <style:text-properties officeooo:paragraph-rsid="002acc95"/>
   </style:style>
   <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="true" officeooo:rsid="002cc3e4" officeooo:paragraph-rsid="002cc3e4"/>
+   <style:text-properties style:text-outline="true" officeooo:rsid="002cc3e4" officeooo:paragraph-rsid="002cc3e4"/>
   </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:text-outline="true" officeooo:rsid="002cc3e4" officeooo:paragraph-rsid="002cc3e4"/>
   </style:style>
   <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-   <style:text-properties officeooo:paragraph-rsid="002acc95"/>
   </style:style>
   <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties officeooo:paragraph-rsid="002acc95"/>
   </style:style>
   <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
-   <style:text-properties officeooo:paragraph-rsid="002acc95"/>
   </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:font-size="12pt"/>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:contextual-spacing="false" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties officeooo:paragraph-rsid="002acc95"/>
   </style:style>
   <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="12pt"/>
   </style:style>
   <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties style:writing-mode="lr-tb"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-size="12pt"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="12pt"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Figure">
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Figure">
    <style:text-properties officeooo:paragraph-rsid="003764ef"/>
   </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties officeooo:paragraph-rsid="0035c856"/>
   </style:style>
-  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false" fo:break-before="column"/>
    <style:text-properties officeooo:rsid="002f33ae" officeooo:paragraph-rsid="002f33ae"/>
   </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Title">
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Title">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Title">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Footer">
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Title">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Heading_20_1">
@@ -874,6 +874,9 @@
   <style:style style:name="T31" style:family="text">
    <style:text-properties officeooo:rsid="003975d5"/>
   </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="003cc746"/>
+  </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none"/>
   </style:style>
@@ -941,7 +944,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1">
    <style:footer>
-    <text:p text:style-name="P1"><text:page-number text:select-page="current">7</text:page-number><text:s/>/ <text:page-count>10</text:page-count></text:p>
+    <text:p text:style-name="P1"><text:page-number text:select-page="current">10</text:page-number><text:s/>/ <text:page-count>10</text:page-count></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="HTML" style:page-layout-name="pm2"/>
@@ -955,85 +958,85 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P94">Internet</text:p>
-   <text:h text:style-name="P89" text:outline-level="1">TCP/IP</text:h>
-   <text:p text:style-name="P31"><text:span text:style-name="T15">Transmission</text:span> Control Protocol / Internet Protocol, signifiant : Protocole de Contrôle de <text:span text:style-name="T15">Transmission</text:span> / Protocole Internet.</text:p>
-   <text:p text:style-name="P31"/>
-   <text:h text:style-name="P90" text:outline-level="2">Introduction</text:h>
-   <text:p text:style-name="P3">Internet est un réseau de réseau qui a émergé de travaux de recherches débutés dans les années 1970. Il fonctionne sur ce que nous appelons la « commutation de paquets ». Au lieu des circuits <text:span text:style-name="T1">réels</text:span>, précédente technologie utilisée notamment en téléphonie.</text:p>
-   <text:p text:style-name="P8">Nous pouvons faire une analogie entre la commutation <text:span text:style-name="T4">et</text:span> l’aiguillage des trains. <text:span text:style-name="T22">Typiquement, les circuits </text:span><text:span text:style-name="T1">réels</text:span><text:span text:style-name="T22"> imposent d’avoir une entité opérant le réseau. Nous définissons un chemin et chaque information prendra ce chemin, c’est l</text:span><text:span text:style-name="T1">a commutation de</text:span><text:span text:style-name="T22"> circuit.</text:span></text:p>
-   <text:p text:style-name="P3">La commutation de paquets, permet de découper une information en paquet, à fragmenter l’information. Chaque paquet pourra prendre un chemin différent. <text:span text:style-name="T1">C’est la commutation de paquets.</text:span></text:p>
-   <text:p text:style-name="P56"><text:span text:style-name="T19">Activité : </text:span>Nous allons illustrer ces deux types de commutation avec deux schémas :</text:p>
+   <text:p text:style-name="P95">Internet</text:p>
+   <text:h text:style-name="P90" text:outline-level="1">TCP/IP</text:h>
+   <text:p text:style-name="P32"><text:span text:style-name="T15">Transmission</text:span> Control Protocol / Internet Protocol, signifiant : Protocole de Contrôle de <text:span text:style-name="T15">Transmission</text:span> / Protocole Internet.</text:p>
+   <text:p text:style-name="P32"/>
+   <text:h text:style-name="P91" text:outline-level="2">Introduction</text:h>
+   <text:p text:style-name="P4">Internet est un réseau de réseau qui a émergé de travaux de recherches débutés dans les années 1970. Il fonctionne sur ce que nous appelons la « commutation de paquets ». Au lieu des circuits <text:span text:style-name="T1">réels</text:span>, précédente technologie utilisée notamment en téléphonie.</text:p>
+   <text:p text:style-name="P9">Nous pouvons faire une analogie entre la commutation <text:span text:style-name="T4">et</text:span> l’aiguillage des trains. <text:span text:style-name="T22">Typiquement, les circuits </text:span><text:span text:style-name="T1">réels</text:span><text:span text:style-name="T22"> imposent d’avoir une entité opérant le réseau. Nous définissons un chemin et chaque information prendra ce chemin, c’est l</text:span><text:span text:style-name="T1">a commutation de</text:span><text:span text:style-name="T22"> circuit.</text:span></text:p>
+   <text:p text:style-name="P4">La commutation de paquets, permet de découper une information en paquet, à fragmenter l’information. Chaque paquet pourra prendre un chemin différent. <text:span text:style-name="T1">C’est la commutation de paquets.</text:span></text:p>
+   <text:p text:style-name="P57"><text:span text:style-name="T19">Activité : </text:span>Nous allons illustrer ces deux types de commutation avec deux schémas :</text:p>
    <text:section text:style-name="Sect1" text:name="Section1">
-    <text:p text:style-name="P56">Commutation de circuit<text:span text:style-name="T19">s</text:span></text:p>
-    <text:p text:style-name="P92">Commutation de paquets</text:p>
+    <text:p text:style-name="P57">Commutation de circuit<text:span text:style-name="T19">s</text:span></text:p>
+    <text:p text:style-name="P93">Commutation de paquets</text:p>
    </text:section>
-   <text:p text:style-name="P72">Pour appréhender ce principe, nous avons fait une activité débranchée, consistant à envoyer « hello world », sur des papiers avec une limite de 5 caractères, en identifiant successivement les problèmes rencontrés.</text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P60"><text:span text:style-name="T3">Regardons une petite vidéo d’introduction : </text:span>MOOC SNT / Internet, IP un protocole universel ? <text:span text:style-name="T3">(</text:span><text:a xlink:type="simple" xlink:href="https://yewtu.be/watch?v=aX3z3JoVEdE" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">https://yewtu.be/watch?v=aX3z3JoVEdE</text:span></text:a><text:span text:style-name="T3">)</text:span></text:p>
-   <text:p text:style-name="P60"/>
-   <text:p text:style-name="P5">Il faut distinguer Internet et le protocole internet. <text:span text:style-name="T26">Internet est un réseau de réseau</text:span><text:span text:style-name="T27">x</text:span>, basé sur le protocole internet, lequel permet le routage des paquets grâce aux adresses internet, ou adresse IP (Internet Protocol). <text:span text:style-name="T19">Pour</text:span> permettre à <text:bookmark-start text:name="__DdeLink__4_3701972905"/>A<text:bookmark-start text:name="__DdeLink__1_3701972905"/>lice d’envoyer un message à Bob, à travers le nuage « Internet ».<text:bookmark-end text:name="__DdeLink__4_3701972905"/><text:bookmark-end text:name="__DdeLink__1_3701972905"/></text:p>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P58">Activité : rechercher les repères historiques et la motivation originelle quant à l’apparition d’Internet. Nous pouvons nous aider des mots clés suivant : ARPANET, Cyclades, apparition, internet.</text:p>
+   <text:p text:style-name="P73">Pour appréhender ce principe, nous avons fait une activité débranchée, consistant à envoyer « hello world », sur des papiers avec une limite de 5 caractères, en identifiant successivement les problèmes rencontrés.</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P61"><text:span text:style-name="T3">Regardons une petite vidéo d’introduction : </text:span>MOOC SNT / Internet, IP un protocole universel ? <text:span text:style-name="T3">(</text:span><text:a xlink:type="simple" xlink:href="https://yewtu.be/watch?v=aX3z3JoVEdE" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">https://yewtu.be/watch?v=aX3z3JoVEdE</text:span></text:a><text:span text:style-name="T3">)</text:span></text:p>
+   <text:p text:style-name="P61"/>
+   <text:p text:style-name="P6">Il faut distinguer Internet et le protocole internet. <text:span text:style-name="T26">Internet est un réseau de réseau</text:span><text:span text:style-name="T27">x</text:span>, basé sur le protocole internet, lequel permet le routage des paquets grâce aux adresses internet, ou adresse IP (Internet Protocol). <text:span text:style-name="T19">Pour</text:span> permettre à <text:bookmark-start text:name="__DdeLink__4_3701972905"/>A<text:bookmark-start text:name="__DdeLink__1_3701972905"/>lice d’envoyer un message à Bob, à travers le nuage « Internet ».<text:bookmark-end text:name="__DdeLink__4_3701972905"/><text:bookmark-end text:name="__DdeLink__1_3701972905"/></text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P59">Activité : rechercher les repères historiques et la motivation originelle quant à l’apparition d’Internet. Nous pouvons nous aider des mots clés suivant : ARPANET, Cyclades, apparition, internet.</text:p>
    <text:h text:style-name="P99" text:outline-level="2"/>
-   <text:h text:style-name="P71" text:outline-level="2">Modèle TCP/IP</text:h>
-   <text:p text:style-name="P26">Le protocole internet est indépendant du support physique, pour l’illustrer, voyons le modèle TCP/IP : </text:p>
+   <text:h text:style-name="P72" text:outline-level="2">Modèle TCP/IP</text:h>
+   <text:p text:style-name="P27">Le protocole internet est indépendant du support physique, pour l’illustrer, voyons le modèle TCP/IP : </text:p>
    <table:table table:name="Tableau1" table:style-name="Tableau1">
     <table:table-column table:style-name="Tableau1.A"/>
     <table:table-column table:style-name="Tableau1.B"/>
-    <table:table-row table:style-name="TableLine93947002311744">
+    <table:table-row table:style-name="TableLine94408029531408">
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
-      <text:p text:style-name="P78">4) <text:span text:style-name="T16">Application</text:span></text:p>
+      <text:p text:style-name="P79">4) <text:span text:style-name="T16">Application</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.B1" office:value-type="string">
-      <text:p text:style-name="P76"><text:span text:style-name="T16">Protocole : HTTP, </text:span>DNS, etc.</text:p>
-      <text:p text:style-name="P81"><text:span text:style-name="T16">Appellation : n</text:span>ous parlons de données.</text:p>
-      <text:p text:style-name="P82"><text:span text:style-name="T16">Exemple : (HTTP) </text:span>GET /index.php</text:p>
+      <text:p text:style-name="P77"><text:span text:style-name="T16">Protocole : HTTP, </text:span>DNS, etc.</text:p>
+      <text:p text:style-name="P82"><text:span text:style-name="T16">Appellation : n</text:span>ous parlons de données.</text:p>
+      <text:p text:style-name="P83"><text:span text:style-name="T16">Exemple : (HTTP) </text:span>GET /index.php</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine93947002382896">
+    <table:table-row table:style-name="TableLine94408029602560">
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
-      <text:p text:style-name="P77">3) <text:span text:style-name="T16">Transport</text:span></text:p>
+      <text:p text:style-name="P78">3) <text:span text:style-name="T16">Transport</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.B2" office:value-type="string">
-      <text:p text:style-name="P81"><text:span text:style-name="T16">Protocole</text:span> : TCP, UDP.</text:p>
-      <text:p text:style-name="P82"><text:span text:style-name="T16">Appellation :</text:span> <text:span text:style-name="T16">n</text:span>ous parlons de datagramme.</text:p>
-      <text:p text:style-name="P81">E<text:span text:style-name="T16">xemple :</text:span> <text:span text:style-name="T16">(socket)</text:span> 127.0.0.1:80, <text:span text:style-name="T16">où 80 est un port TCP.</text:span></text:p>
+      <text:p text:style-name="P82"><text:span text:style-name="T16">Protocole</text:span> : TCP, UDP.</text:p>
+      <text:p text:style-name="P83"><text:span text:style-name="T16">Appellation :</text:span> <text:span text:style-name="T16">n</text:span>ous parlons de datagramme.</text:p>
+      <text:p text:style-name="P82">E<text:span text:style-name="T16">xemple :</text:span> <text:span text:style-name="T16">(socket)</text:span> 127.0.0.1:80, <text:span text:style-name="T16">où 80 est un port TCP.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine93947002412880">
+    <table:table-row table:style-name="TableLine94408029632544">
      <table:table-cell table:style-name="Tableau1.A3" office:value-type="string">
-      <text:p text:style-name="P77">2) <text:span text:style-name="T16">Internet</text:span></text:p>
+      <text:p text:style-name="P78">2) <text:span text:style-name="T16">Internet</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.B3" office:value-type="string">
-      <text:p text:style-name="P81"><text:span text:style-name="T16">Protocole :</text:span> IP, etc.</text:p>
-      <text:p text:style-name="P81">A<text:span text:style-name="T16">ppellation : n</text:span>ous parlons de paquet.</text:p>
-      <text:p text:style-name="P81"><text:span text:style-name="T16">Exemple : (adresse </text:span>IP<text:span text:style-name="T31">)</text:span> 127.0.0.1</text:p>
+      <text:p text:style-name="P82"><text:span text:style-name="T16">Protocole :</text:span> IP, etc.</text:p>
+      <text:p text:style-name="P82">A<text:span text:style-name="T16">ppellation : n</text:span>ous parlons de paquet.</text:p>
+      <text:p text:style-name="P82"><text:span text:style-name="T16">Exemple : (adresse </text:span>IP<text:span text:style-name="T31">)</text:span> 127.0.0.1</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine93947002414352">
+    <table:table-row table:style-name="TableLine94408029634016">
      <table:table-cell table:style-name="Tableau1.A4" office:value-type="string">
-      <text:p text:style-name="P77">1) <text:span text:style-name="T16">Accès réseau</text:span></text:p>
+      <text:p text:style-name="P78">1) <text:span text:style-name="T16">Accès réseau</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Tableau1.B4" office:value-type="string">
-      <text:p text:style-name="P81"><text:span text:style-name="T17">Protocole :</text:span> ethernet, wifi, etc.</text:p>
-      <text:p text:style-name="P81"><text:span text:style-name="T17">Appellation : </text:span>Nous parlons de trame.</text:p>
-      <text:p text:style-name="P81"><text:span text:style-name="T17">Exemple : </text:span><text:span text:style-name="T31">(</text:span><text:span text:style-name="T17">adresse </text:span>MAC<text:span text:style-name="T31">)</text:span> 5E:FF:56:A2:AF:15</text:p>
+      <text:p text:style-name="P82"><text:span text:style-name="T17">Protocole :</text:span> ethernet, wifi, etc.</text:p>
+      <text:p text:style-name="P82"><text:span text:style-name="T17">Appellation : </text:span>Nous parlons de trame.</text:p>
+      <text:p text:style-name="P82"><text:span text:style-name="T17">Exemple : </text:span><text:span text:style-name="T31">(</text:span><text:span text:style-name="T17">adresse </text:span>MAC<text:span text:style-name="T31">)</text:span> 5E:FF:56:A2:AF:15</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P28"/>
-   <text:h text:style-name="P90" text:outline-level="2">Adresse internet</text:h>
-   <text:p text:style-name="P24">Nous avons vu plus tôt que pour utiliser internet, il nous faut des adresses IP. <text:span text:style-name="T4">De nos jours, cohabitent deux versions d’ip : </text:span><text:span text:style-name="T25">i</text:span><text:span text:style-name="T4">pv4 et ipv6. Ipv4 est encore beaucoup utilisé car facile à retenir, en comparaison d’ipv6. Mais le nombre de machines adressables avec ipv4 est désormais trop petit. </text:span></text:p>
-   <text:p text:style-name="P19">Un masque est généralement associé pour distinguer l’adresse du réseau et l’adresse de la machine, permettant d’orienter un paquet vers la bonne passerelle, c’est-à-dire la machine permettant p<text:span text:style-name="T25">asser le paquet au voisin, pour</text:span> continuer le chemin vers la destination.</text:p>
-   <text:p text:style-name="P12"><text:soft-page-break/>Voyons une adresse ipv4 : <text:span text:style-name="T8">192.168.0.10</text:span> avec le masque 255.<text:span text:style-name="T8">255</text:span>.0.0</text:p>
-   <text:p text:style-name="P12">D’une part, le nombre d’adresse en ipv4 est <text:span text:style-name="T5">autour de soit </text:span>256^<text:span text:style-name="T7">4</text:span><text:span text:style-name="T5"> si on considère les octets, soit 2^32 si on considère le nombre de bit, </text:span><text:span text:style-name="T7">pour un total de</text:span><text:span text:style-name="T5"> plus de 4 milliard d’adresses </text:span><text:span text:style-name="T6">(4 * 10^</text:span><text:span text:style-name="T7">9</text:span><text:span text:style-name="T6">).</text:span></text:p>
-   <text:p text:style-name="P61"><text:span text:style-name="T6">Voyons une adresse ipv6 : </text:span>0123:0078:9ABC:DEF0:1234:5678:9ABC:DEF0/<text:span text:style-name="T7">32</text:span> <text:span text:style-name="T7">où /32 est</text:span><text:span text:style-name="T6"> le préfixe </text:span><text:span text:style-name="T7">équivalent au masque : FFFF:FFFF:0000:0000:0000:0000:0000:0000.</text:span></text:p>
-   <text:p text:style-name="P17">Soit 256^16 <text:span text:style-name="T24">(octets) </text:span>ou 2^128 <text:span text:style-name="T24">(bits)</text:span> pour un total de plus de 340 sextillion (3 * 10^38).</text:p>
-   <text:p text:style-name="P14"/>
-   <text:h text:style-name="P90" text:outline-level="2">Passerelle et routage</text:h>
-   <text:p text:style-name="P51"><text:span text:style-name="T17">Alice veut envoyer un message à Bob. </text:span>La machine d’Alice <text:span text:style-name="T17">(192.168.0.10/16)</text:span> ne connaît pas le chemin vers la machine de Bob <text:span text:style-name="T17">(172.21.0.1/24)</text:span>, <text:span text:style-name="T17">mais </text:span>tout paquet devant sortir du réseau sera envoyé à la passerelle <text:span text:style-name="T17">par défaut, c’est la route par défaut</text:span>. La passerelle connaît le réseau de Bob, elle peut transférer le paquet à Bob.</text:p>
-   <text:p text:style-name="P57"><draw:frame draw:style-name="fr4" draw:name="Cadre1" text:anchor-type="char" svg:x="0cm" svg:y="-0.065cm" svg:width="17cm" draw:z-index="0">
+   <text:p text:style-name="P29"/>
+   <text:h text:style-name="P91" text:outline-level="2">Adresse internet</text:h>
+   <text:p text:style-name="P25">Nous avons vu plus tôt que pour utiliser internet, il nous faut des adresses IP. <text:span text:style-name="T4">De nos jours, cohabitent deux versions d’ip : </text:span><text:span text:style-name="T25">i</text:span><text:span text:style-name="T4">pv4 et ipv6. Ipv4 est encore beaucoup utilisé car facile à retenir, en comparaison d’ipv6. Mais le nombre de machines adressables avec ipv4 est désormais trop petit. </text:span></text:p>
+   <text:p text:style-name="P20">Un masque est généralement associé pour distinguer l’adresse du réseau et l’adresse de la machine, permettant d’orienter un paquet vers la bonne passerelle, c’est-à-dire la machine permettant p<text:span text:style-name="T25">asser le paquet au voisin, pour</text:span> continuer le chemin vers la destination.</text:p>
+   <text:p text:style-name="P13"><text:soft-page-break/>Voyons une adresse ipv4 : <text:span text:style-name="T8">192.168.0.10</text:span> avec le masque 255.<text:span text:style-name="T8">255</text:span>.0.0</text:p>
+   <text:p text:style-name="P13">D’une part, le nombre d’adresse en ipv4 est <text:span text:style-name="T5">autour de soit </text:span>256^<text:span text:style-name="T7">4</text:span><text:span text:style-name="T5"> si on considère les octets, soit 2^32 si on considère le nombre de bit, </text:span><text:span text:style-name="T7">pour un total de</text:span><text:span text:style-name="T5"> plus de 4 milliard d’adresses </text:span><text:span text:style-name="T6">(4 * 10^</text:span><text:span text:style-name="T7">9</text:span><text:span text:style-name="T6">).</text:span></text:p>
+   <text:p text:style-name="P62"><text:span text:style-name="T6">Voyons une adresse ipv6 : </text:span>0123:0078:9ABC:DEF0:1234:5678:9ABC:DEF0/<text:span text:style-name="T7">32</text:span> <text:span text:style-name="T7">où /32 est</text:span><text:span text:style-name="T6"> le préfixe </text:span><text:span text:style-name="T7">équivalent au masque : FFFF:FFFF:0000:0000:0000:0000:0000:0000.</text:span></text:p>
+   <text:p text:style-name="P18">Soit 256^16 <text:span text:style-name="T24">(octets) </text:span>ou 2^128 <text:span text:style-name="T24">(bits)</text:span> pour un total de plus de 340 sextillion (3 * 10^38).</text:p>
+   <text:p text:style-name="P15"/>
+   <text:h text:style-name="P91" text:outline-level="2">Passerelle et routage</text:h>
+   <text:p text:style-name="P52"><text:span text:style-name="T17">Alice veut envoyer un message à Bob. </text:span>La machine d’Alice <text:span text:style-name="T17">(192.168.0.10/16)</text:span> ne connaît pas le chemin vers la machine de Bob <text:span text:style-name="T17">(172.21.0.1/24)</text:span>, <text:span text:style-name="T17">mais </text:span>tout paquet devant sortir du réseau sera envoyé à la passerelle <text:span text:style-name="T17">par défaut, c’est la route par défaut</text:span>. La passerelle connaît le réseau de Bob, elle peut transférer le paquet à Bob.</text:p>
+   <text:p text:style-name="P58"><draw:frame draw:style-name="fr4" draw:name="Cadre1" text:anchor-type="char" svg:x="0cm" svg:y="-0.065cm" svg:width="17cm" draw:z-index="0">
      <draw:text-box fo:min-height="6.932cm">
       <text:p text:style-name="Figure"><draw:frame draw:style-name="fr7" draw:name="Image2" text:anchor-type="paragraph" svg:width="17cm" style:rel-width="100%" svg:height="6.932cm" style:rel-height="scale" draw:z-index="1"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA04AAAFZCAYAAACv7H+LAAC3A0lEQVR4nO2dB7gU1fmHD4mx
@@ -1910,35 +1913,35 @@
        </draw:frame>Figure <text:sequence text:ref-name="refFigure0" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">1</text:sequence>: https://si.blaisepascal.fr/1t-couche-internet/</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P63"><text:soft-page-break/>Le masque est illustré par l’encadré rouge. Il <text:span text:style-name="T31">masque</text:span> la partie « réseau » d’une adresse IP. L’autre partie est relative aux machines, à l’hôte.</text:p>
-   <text:p text:style-name="P65">Ainsi : <text:s/><text:span text:style-name="T31">L’adresse ip </text:span><text:span text:style-name="T29">42</text:span>.<text:span text:style-name="T29">0</text:span>.0.1<text:span text:style-name="T29">0</text:span> masque 255.<text:span text:style-name="T29">0</text:span>.<text:span text:style-name="T29">0</text:span>.0, nous <text:span text:style-name="T31">masquons</text:span> <text:span text:style-name="T31">0.0.10, la partie hôte</text:span>. <text:span text:style-name="T31">L</text:span>a partie réseau est <text:span text:style-name="T29">42. : </text:span><text:span text:style-name="T31">l</text:span>’adresse du réseau est <text:span text:style-name="T29">42.0</text:span>.0.0.</text:p>
-   <text:p text:style-name="P64"><text:span text:style-name="T19">Activité : </text:span><text:span text:style-name="T23">identifier les adresses des réseaux </text:span><text:span text:style-name="T29">et leur masque</text:span><text:span text:style-name="T23"> </text:span><text:span text:style-name="T29">de la figure 1.</text:span></text:p>
-   <text:p text:style-name="P63"/>
-   <text:p text:style-name="P22"><text:span text:style-name="T29">P</text:span>our éviter qu’un paquet tourne en rond sur le réseau, <text:span text:style-name="T29">l</text:span>a passerelle décrémente également <text:span text:style-name="T29">une valeur,</text:span> le Time To Live (TTL) : lorsque le TTL arrive à 0, le paquet est détruit.</text:p>
-   <text:p text:style-name="P21"/>
-   <text:h text:style-name="P91" text:outline-level="2">Transport</text:h>
-   <text:p text:style-name="P21">IP ne garantit rien quand à la livraison, IP n’assure que la gestion de la cartographie d’un réseau. Pour s’assurer que le paquet arrive à destination, il faut ajouter une nouvelle couche. C’est le rôle de la couche transport. Avec TCP, nous obtenons un mécanisme de garantie de livraison par le biais de datagrammes dédiés à accuser la réception (<text:bookmark-start text:name="__DdeLink__7_3701972905"/>Acknowledgement<text:bookmark-end text:name="__DdeLink__7_3701972905"/> ou ACK). C’est également TCP qui remet les paquets IP dans l’ordre si besoin.</text:p>
-   <text:h text:style-name="P70" text:outline-level="2">Évaluation par les pairs avec émotionalité</text:h>
-   <text:p text:style-name="P34">Qu’est-ce qu’Internet ? Quelle est la différence avec le protocole internet ? <text:span text:style-name="T23">Et le Web ?</text:span></text:p>
-   <text:p text:style-name="P34"/>
-   <text:p text:style-name="P34">A quoi ressemble une adresse internet ? <text:span text:style-name="T31">Quel est le rôle du masque ?</text:span></text:p>
-   <text:p text:style-name="P34"/>
-   <text:p text:style-name="P35">Donner le nom d’un protocole de <text:span text:style-name="T15">transmission </text:span><text:span text:style-name="T30">de la couche transport</text:span><text:span text:style-name="T15"> ? </text:span><text:span text:style-name="T30">Quelle est la signification de cet acronyme ?</text:span></text:p>
-   <text:p text:style-name="P34"/>
-   <text:p text:style-name="P34">Comment ce protocole peut-il contrôler la réception des paquets ?</text:p>
-   <text:p text:style-name="P34"/>
-   <text:p text:style-name="P35">Que permet d’illustrer le modèle TCP/IP ? Pourrions-nous utiliser Internet avec des pigeons ? <text:span text:style-name="T30">Pourquoi ?</text:span></text:p>
-   <text:p text:style-name="P34"/>
-   <text:p text:style-name="P34">Quelle est l’émotion ressentie quant à cette séquence ? Et vis-à-vis de cette évaluation ?</text:p>
-   <text:p text:style-name="P34"/>
-   <text:h text:style-name="P67" text:outline-level="1">DNS</text:h>
-   <text:p text:style-name="P31">Domain Name System, acronyme anglais signifiant : Système de Nom de Domaine.</text:p>
-   <text:h text:style-name="P90" text:outline-level="2">Introduction</text:h>
-   <text:p text:style-name="P31">Maintenant que nous avons un système permettant aux machines de communiquer entre elles, un autre problème apparaît, d’autant plus flagrant avec IPv6 (adresse à 128 bits) : comment se rappeler de toutes les adresses que nous voulons visiter ?</text:p>
-   <text:p text:style-name="P32">Nous pourrions utiliser un carnet ou un fichier, pour stocker les adresses et y faire correspondre les services auxquels nous voulons accéder. <text:span text:style-name="T10">Ce fichier local est le fichier « hosts », qui était historiquement téléchargé depuis un serveur. Mais avec l’agrandissement d’Internet, le maintien de ce fichier était de plus en plus pénible.</text:span></text:p>
-   <text:p text:style-name="P53">DNS est une solution à cette pénibilité, par le biais d’un service réseau : nous pouvons envoyer une requête à un serveur sur Internet, lequel nous répondra.<draw:frame draw:style-name="fr3" draw:name="Cadre4" text:anchor-type="char" svg:x="7.37cm" svg:y="2.24cm" svg:width="11.494cm" draw:z-index="13">
+   <text:p text:style-name="P64"><text:soft-page-break/>Le masque est illustré par l’encadré rouge. Il <text:span text:style-name="T31">masque</text:span> la partie « réseau » d’une adresse IP. L’autre partie est relative aux machines, à l’hôte.</text:p>
+   <text:p text:style-name="P66">Ainsi : <text:s/><text:span text:style-name="T31">L’adresse ip </text:span><text:span text:style-name="T29">42</text:span>.<text:span text:style-name="T29">0</text:span>.0.1<text:span text:style-name="T29">0</text:span> masque 255.<text:span text:style-name="T29">0</text:span>.<text:span text:style-name="T29">0</text:span>.0, nous <text:span text:style-name="T31">masquons</text:span> <text:span text:style-name="T31">0.0.10, la partie hôte</text:span>. <text:span text:style-name="T31">L</text:span>a partie réseau est <text:span text:style-name="T29">42. : </text:span><text:span text:style-name="T31">l</text:span>’adresse du réseau est <text:span text:style-name="T29">42.0</text:span>.0.0.</text:p>
+   <text:p text:style-name="P65"><text:span text:style-name="T19">Activité : </text:span><text:span text:style-name="T23">identifier les adresses des réseaux </text:span><text:span text:style-name="T29">et leur masque</text:span><text:span text:style-name="T23"> </text:span><text:span text:style-name="T29">de la figure 1.</text:span></text:p>
+   <text:p text:style-name="P64"/>
+   <text:p text:style-name="P23"><text:span text:style-name="T29">P</text:span>our éviter qu’un paquet tourne en rond sur le réseau, <text:span text:style-name="T29">l</text:span>a passerelle décrémente également <text:span text:style-name="T29">une valeur,</text:span> le Time To Live (TTL) : lorsque le TTL arrive à 0, le paquet est détruit.</text:p>
+   <text:p text:style-name="P22"/>
+   <text:h text:style-name="P92" text:outline-level="2">Transport</text:h>
+   <text:p text:style-name="P22">IP ne garantit rien quand à la livraison, IP n’assure que la gestion de la cartographie d’un réseau. Pour s’assurer que le paquet arrive à destination, il faut ajouter une nouvelle couche. C’est le rôle de la couche transport. Avec TCP, nous obtenons un mécanisme de garantie de livraison par le biais de datagrammes dédiés à accuser la réception (<text:bookmark-start text:name="__DdeLink__7_3701972905"/>Acknowledgement<text:bookmark-end text:name="__DdeLink__7_3701972905"/> ou ACK). C’est également TCP qui remet les paquets IP dans l’ordre si besoin.</text:p>
+   <text:h text:style-name="P71" text:outline-level="2">Évaluation par les pairs avec émotionalité</text:h>
+   <text:p text:style-name="P35">Qu’est-ce qu’Internet ? Quelle est la différence avec le protocole internet ? <text:span text:style-name="T23">Et le Web ?</text:span></text:p>
+   <text:p text:style-name="P35"/>
+   <text:p text:style-name="P35">A quoi ressemble une adresse internet ? <text:span text:style-name="T31">Quel est le rôle du masque ?</text:span></text:p>
+   <text:p text:style-name="P35"/>
+   <text:p text:style-name="P36">Donner le nom d’un protocole de <text:span text:style-name="T15">transmission </text:span><text:span text:style-name="T30">de la couche transport</text:span><text:span text:style-name="T15"> ? </text:span><text:span text:style-name="T30">Quelle est la signification de cet acronyme ?</text:span></text:p>
+   <text:p text:style-name="P35"/>
+   <text:p text:style-name="P35">Comment ce protocole peut-il contrôler la réception des paquets ?</text:p>
+   <text:p text:style-name="P35"/>
+   <text:p text:style-name="P36">Que permet d’illustrer le modèle TCP/IP ? Pourrions-nous utiliser Internet avec des pigeons ? <text:span text:style-name="T30">Pourquoi ?</text:span></text:p>
+   <text:p text:style-name="P35"/>
+   <text:p text:style-name="P35">Quelle est l’émotion ressentie quant à cette séquence ? Et vis-à-vis de cette évaluation ? C<text:span text:style-name="T32">omment améliorer le cours ?</text:span></text:p>
+   <text:p text:style-name="P35"/>
+   <text:h text:style-name="P68" text:outline-level="1">DNS</text:h>
+   <text:p text:style-name="P32">Domain Name System, acronyme anglais signifiant : Système de Nom de Domaine.</text:p>
+   <text:h text:style-name="P91" text:outline-level="2">Introduction</text:h>
+   <text:p text:style-name="P32">Maintenant que nous avons un système permettant aux machines de communiquer entre elles, un autre problème apparaît, d’autant plus flagrant avec IPv6 (adresse à 128 bits) : comment se rappeler de toutes les adresses que nous voulons visiter ?</text:p>
+   <text:p text:style-name="P33">Nous pourrions utiliser un carnet ou un fichier, pour stocker les adresses et y faire correspondre les services auxquels nous voulons accéder. <text:span text:style-name="T10">Ce fichier local est le fichier « hosts », qui était historiquement téléchargé depuis un serveur. Mais avec l’agrandissement d’Internet, le maintien de ce fichier était de plus en plus pénible.</text:span></text:p>
+   <text:p text:style-name="P54">DNS est une solution à cette pénibilité, par le biais d’un service réseau : nous pouvons envoyer une requête à un serveur sur Internet, lequel nous répondra.<draw:frame draw:style-name="fr3" draw:name="Cadre4" text:anchor-type="char" svg:x="7.37cm" svg:y="2.24cm" svg:width="11.494cm" draw:z-index="13">
      <draw:text-box fo:min-height="8.042cm">
-      <text:p text:style-name="P88"><draw:frame draw:style-name="fr5" draw:name="Image4" text:anchor-type="paragraph" svg:width="11.377cm" style:rel-width="98%" svg:height="5.184cm" style:rel-height="scale" draw:z-index="14"><draw:image draw:mime-type="image/png">
+      <text:p text:style-name="P89"><draw:frame draw:style-name="fr5" draw:name="Image4" text:anchor-type="paragraph" svg:width="11.377cm" style:rel-width="98%" svg:height="5.184cm" style:rel-height="scale" draw:z-index="14"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABNAAAAJQCAYAAABPUpkHAAAACXBIWXMAAA7EAAAOxAGVKw4b
           AAAgAElEQVR4nOzdf3Rkd3nn+XeJQoiyLIQshGg6HdFumqZpTGNM4xiD+RUg/AgkwIGEAMkm
           k5wMm5lhs1kmh5PleOcwmSxndoawnJ1Mht0lJJkkJASyxBAw4BhjwDSmaZqmaRoh5HZHNLIs
@@ -3150,15 +3153,15 @@
          </office:binary-data>
         </draw:image>
        </draw:frame>Figure <text:sequence text:ref-name="refFigure1" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">2</text:sequence>: https://www.redhat.com/sysadmin/dns-domain-name-servers </text:p>
-      <text:p text:style-name="P88">(c) redhat</text:p>
+      <text:p text:style-name="P89">(c) redhat</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P53"/>
-   <text:h text:style-name="P91" text:outline-level="2">Arborescence DNS</text:h>
-   <text:p text:style-name="P37">La base de données se découpe sous la forme d’un arbre inversé : il y a une racine, puis des domaines, pouvant contenir des sous-domaines ou des ressources, etc.</text:p>
-   <text:h text:style-name="P90" text:outline-level="2"><text:soft-page-break/>Résolution DNS</text:h>
-   <text:p text:style-name="P39">Lorsqu’un nom est interrogé, la machine regarde d’abord localement, dans un cache local, puis le fichier hosts ; avant de demander à un serveur DNS cache (la box), puis le serveur root, puis le serveur de zone.</text:p>
-   <text:p text:style-name="P39"><draw:custom-shape text:anchor-type="paragraph" draw:z-index="2" draw:name="Forme1" draw:style-name="gr5" draw:text-style-name="P107" svg:width="2.779cm" svg:height="1.721cm" svg:x="1.446cm" svg:y="2.895cm">
+   <text:p text:style-name="P54"/>
+   <text:h text:style-name="P92" text:outline-level="2">Arborescence DNS</text:h>
+   <text:p text:style-name="P38">La base de données se découpe sous la forme d’un arbre inversé : il y a une racine, puis des domaines, pouvant contenir des sous-domaines ou des ressources, etc.</text:p>
+   <text:h text:style-name="P91" text:outline-level="2"><text:soft-page-break/>Résolution DNS</text:h>
+   <text:p text:style-name="P40">Lorsqu’un nom est interrogé, la machine regarde d’abord localement, dans un cache local, puis le fichier hosts ; avant de demander à un serveur DNS cache (la box), puis le serveur root, puis le serveur de zone.</text:p>
+   <text:p text:style-name="P40"><draw:custom-shape text:anchor-type="paragraph" draw:z-index="2" draw:name="Forme1" draw:style-name="gr5" draw:text-style-name="P107" svg:width="2.779cm" svg:height="1.721cm" svg:x="1.446cm" svg:y="2.895cm">
      <text:p text:style-name="P107">Client</text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 0 10800 10800 21600 21600 10800" draw:text-areas="5400 5400 16200 16200" draw:type="diamond" draw:enhanced-path="M 10800 0 L 21600 10800 10800 21600 0 10800 10800 0 Z N"/>
     </draw:custom-shape><draw:custom-shape text:anchor-type="paragraph" draw:z-index="3" draw:name="Forme2" draw:style-name="gr4" draw:text-style-name="P106" svg:width="3.599cm" svg:height="1.43cm" svg:x="5.6cm" svg:y="4.493cm">
@@ -3166,7 +3169,7 @@
      <text:p text:style-name="P106">Cache (box)</text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape><draw:custom-shape text:anchor-type="paragraph" draw:z-index="4" draw:name="Forme2_0" draw:style-name="gr3" draw:text-style-name="P105" svg:width="4.657cm" svg:height="1.43cm" svg:x="11.024cm" svg:y="4.533cm">
-     <text:p text:style-name="P105"><text:span text:style-name="T18">Serve</text:span><text:span text:style-name="T18">ur </text:span><text:span text:style-name="T18">DNS </text:span><text:span text:style-name="T18">Root</text:span></text:p>
+     <text:p text:style-name="P105"><text:span text:style-name="T18">Serveur DNS Root</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape><draw:line text:anchor-type="paragraph" draw:z-index="5" draw:name="Forme3" draw:style-name="gr2" draw:text-style-name="P104" svg:x1="4.225cm" svg:y1="3.768cm" svg:x2="13.734cm" svg:y2="3.793cm">
      <text:p/>
@@ -3177,20 +3180,20 @@
     </draw:line><draw:line text:anchor-type="paragraph" draw:z-index="8" draw:name="Forme4_1" draw:style-name="gr1" draw:text-style-name="P103" svg:x1="9.199cm" svg:y1="5.299cm" svg:x2="11.025cm" svg:y2="5.299cm">
      <text:p/>
     </draw:line>Ce qu’il faut retenir, c’est que le premier serveur n’a pas forcement l’information. Alors une requête est adressée au serveur root.</text:p>
-   <text:p text:style-name="P39"/>
-   <text:p text:style-name="P39"/>
-   <text:p text:style-name="P39"/>
-   <text:p text:style-name="P39"/>
-   <text:p text:style-name="P39"/>
-   <text:p text:style-name="P39"/>
-   <text:p text:style-name="P59">Activité : trouver une adresse internet de wikipedia.fr.</text:p>
-   <text:h text:style-name="P67" text:outline-level="1">P2P</text:h>
-   <text:p text:style-name="P43">Peer To Peer, signifiant pair à pair. </text:p>
-   <text:h text:style-name="P90" text:outline-level="2">Introduction</text:h>
-   <text:p text:style-name="P43">Les réseaux pair à pair permettent de rendre des services indépendants de l’architecture client-serveur. <text:span text:style-name="T13">Les clients échangent des bouts de fichier et allègent le serveur.</text:span></text:p>
-   <text:p text:style-name="P44"><text:span text:style-name="T13">Quand nous pensons P2P, nous pensons souvent téléchargement de jeux, de films ou de séries. Mais ces usages sont souvent avec certaines largesses quant au droit d’auteur, quelle qu’en soit la critique que nous pourrions en faire, </text:span><text:span text:style-name="T14">mentionnons </text:span><text:span text:style-name="T29">l’apparition de</text:span><text:span text:style-name="T14"> la culture libre par l’utilisation des licences Creatives Commons, </text:span><text:span text:style-name="T29">qui autorisent le partage.</text:span></text:p>
-   <text:h text:style-name="P90" text:outline-level="2">PeerTube</text:h>
-   <text:p text:style-name="P46">Initialement développé sur<draw:frame draw:style-name="fr2" draw:name="Cadre2" text:anchor-type="char" svg:x="7.666cm" svg:y="-0.074cm" svg:width="9.821cm" draw:z-index="9">
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P60">Activité : trouver une adresse internet de wikipedia.fr.</text:p>
+   <text:h text:style-name="P68" text:outline-level="1">P2P</text:h>
+   <text:p text:style-name="P44">Peer To Peer, signifiant pair à pair. </text:p>
+   <text:h text:style-name="P91" text:outline-level="2">Introduction</text:h>
+   <text:p text:style-name="P44">Les réseaux pair à pair permettent de rendre des services indépendants de l’architecture client-serveur. <text:span text:style-name="T13">Les clients échangent des bouts de fichier et allègent le serveur.</text:span></text:p>
+   <text:p text:style-name="P45"><text:span text:style-name="T13">Quand nous pensons P2P, nous pensons souvent téléchargement de jeux, de films ou de séries. Mais ces usages sont souvent avec certaines largesses quant au droit d’auteur, quelle qu’en soit la critique que nous pourrions en faire, </text:span><text:span text:style-name="T14">mentionnons </text:span><text:span text:style-name="T29">l’apparition de</text:span><text:span text:style-name="T14"> la culture libre par l’utilisation des licences Creatives Commons, </text:span><text:span text:style-name="T29">qui autorisent le partage.</text:span></text:p>
+   <text:h text:style-name="P91" text:outline-level="2">PeerTube</text:h>
+   <text:p text:style-name="P47">Initialement développé sur<draw:frame draw:style-name="fr2" draw:name="Cadre2" text:anchor-type="char" svg:x="7.666cm" svg:y="-0.074cm" svg:width="9.821cm" draw:z-index="9">
      <draw:text-box fo:min-height="9.821cm">
       <text:p text:style-name="Figure"><draw:frame draw:style-name="fr6" draw:name="Image1" text:anchor-type="paragraph" svg:width="9.821cm" style:rel-width="100%" svg:height="9.821cm" style:rel-height="scale" draw:z-index="10"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAbgAAAG4CAYAAAA3yvKzAAE68UlEQVR4nOx9B4AkV3Xtq6qO
@@ -4693,11 +4696,11 @@
        </draw:frame>Figure <text:sequence text:ref-name="refFigure2" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">3</text:sequence>: <text:bookmark-start text:name="__DdeLink__413_3669415331"/>https://en.wikipedia.org/wiki/BitTorre<text:bookmark-end text:name="__DdeLink__413_3669415331"/><text:span text:style-name="T28">nt</text:span></text:p>
      </draw:text-box>
     </draw:frame> WebTorrent, nous pouvons nous rendre compte que le pair à pair <text:span text:style-name="T14">apporte un bénéfice sur l’usage du réseau en allégeant la charge du serveur, </text:span><text:span text:style-name="T15">charge alors </text:span><text:span text:style-name="T14">distribuée aux clients.</text:span></text:p>
-   <text:p text:style-name="P55">WebTorrent est une implémentation du protocole Bittorrent sur WebRTC (une technologie web).</text:p>
-   <text:p text:style-name="P48"/>
-   <text:p text:style-name="P72">Mais cela ne traite que de l’échange de fichier « basique », concernant l’échange de vidéo pour un service de streaming, il est important de recevoir le début de la vidéo en premier. </text:p>
-   <text:p text:style-name="P48"/>
-   <text:p text:style-name="P48">Ce qu’il faut retenir, c’est la mise à contribution des clients dans un modèle P2P, qui rend la structure résiliente à la disparition d’un serveur. Mais cela ne suffit pas à permettre le streaming, il faut <draw:frame draw:style-name="fr1" draw:name="Cadre3" text:anchor-type="char" svg:x="0.404cm" svg:y="4.152cm" svg:width="10.319cm" draw:z-index="11">
+   <text:p text:style-name="P56">WebTorrent est une implémentation du protocole Bittorrent sur WebRTC (une technologie web).</text:p>
+   <text:p text:style-name="P49"/>
+   <text:p text:style-name="P73">Mais cela ne traite que de l’échange de fichier « basique », concernant l’échange de vidéo pour un service de streaming, il est important de recevoir le début de la vidéo en premier. </text:p>
+   <text:p text:style-name="P49"/>
+   <text:p text:style-name="P49">Ce qu’il faut retenir, c’est la mise à contribution des clients dans un modèle P2P, qui rend la structure résiliente à la disparition d’un serveur. Mais cela ne suffit pas à permettre le streaming, il faut <draw:frame draw:style-name="fr1" draw:name="Cadre3" text:anchor-type="char" svg:x="0.404cm" svg:y="4.152cm" svg:width="10.319cm" draw:z-index="11">
      <draw:text-box fo:min-height="4.128cm">
       <text:p text:style-name="Figure"><draw:frame draw:style-name="fr5" draw:name="Image3" text:anchor-type="paragraph" svg:width="10.319cm" style:rel-width="100%" svg:height="4.128cm" style:rel-height="scale" draw:z-index="12"><draw:image draw:mime-type="image/png">
          <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAYYAAACcCAYAAAB7ugysAACsC0lEQVR4nO2dB7wcZfX3z/a9
