@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2022-12-29T12:52:15.792324764</meta:creation-date><dc:date>2023-03-14T11:10:58.973044481</dc:date><meta:editing-duration>PT3H46M58S</meta:editing-duration><meta:editing-cycles>33</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="4" meta:object-count="0" meta:page-count="10" meta:paragraph-count="82" meta:word-count="1342" meta:character-count="8428" meta:non-whitespace-character-count="7176"/></office:meta>
+ <office:meta><meta:creation-date>2022-12-29T12:52:15.792324764</meta:creation-date><dc:date>2023-04-04T10:24:30.126725456</dc:date><meta:editing-duration>PT3H50M14S</meta:editing-duration><meta:editing-cycles>34</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="4" meta:object-count="0" meta:page-count="10" meta:paragraph-count="82" meta:word-count="1366" meta:character-count="8571" meta:non-whitespace-character-count="7295"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">165312</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">157268</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">34556</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">13681</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">20091</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">169353</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">23227</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">158858</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">165312</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">157268</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">34555</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">178991</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">170947</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -94,7 +94,7 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3983174</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">4110069</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -157,7 +157,7 @@
   <draw:stroke-dash draw:name="Dash" draw:style="rect" draw:dots1="1" draw:dots1-length="300%" draw:distance="300%"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="OpenDyslexic" fo:font-size="12pt" fo:language="fr" fo:country="FR" style:letter-kerning="true" style:font-name-asian="DejaVu Sans" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -877,6 +877,9 @@
   <style:style style:name="T32" style:family="text">
    <style:text-properties officeooo:rsid="003cc746"/>
   </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties officeooo:rsid="003eb6f5"/>
+  </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none"/>
   </style:style>
@@ -984,7 +987,7 @@
    <table:table table:name="Tableau1" table:style-name="Tableau1">
     <table:table-column table:style-name="Tableau1.A"/>
     <table:table-column table:style-name="Tableau1.B"/>
-    <table:table-row table:style-name="TableLine94408029531408">
+    <table:table-row table:style-name="TableLine94242306329184">
      <table:table-cell table:style-name="Tableau1.A1" office:value-type="string">
       <text:p text:style-name="P79">4) <text:span text:style-name="T16">Application</text:span></text:p>
      </table:table-cell>
@@ -994,7 +997,7 @@
       <text:p text:style-name="P83"><text:span text:style-name="T16">Exemple : (HTTP) </text:span>GET /index.php</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94408029602560">
+    <table:table-row table:style-name="TableLine94242306400336">
      <table:table-cell table:style-name="Tableau1.A2" office:value-type="string">
       <text:p text:style-name="P78">3) <text:span text:style-name="T16">Transport</text:span></text:p>
      </table:table-cell>
@@ -1004,7 +1007,7 @@
       <text:p text:style-name="P82">E<text:span text:style-name="T16">xemple :</text:span> <text:span text:style-name="T16">(socket)</text:span> 127.0.0.1:80, <text:span text:style-name="T16">où 80 est un port TCP.</text:span></text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94408029632544">
+    <table:table-row table:style-name="TableLine94242306430320">
      <table:table-cell table:style-name="Tableau1.A3" office:value-type="string">
       <text:p text:style-name="P78">2) <text:span text:style-name="T16">Internet</text:span></text:p>
      </table:table-cell>
@@ -1014,7 +1017,7 @@
       <text:p text:style-name="P82"><text:span text:style-name="T16">Exemple : (adresse </text:span>IP<text:span text:style-name="T31">)</text:span> 127.0.0.1</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="TableLine94408029634016">
+    <table:table-row table:style-name="TableLine94242306431792">
      <table:table-cell table:style-name="Tableau1.A4" office:value-type="string">
       <text:p text:style-name="P78">1) <text:span text:style-name="T16">Accès réseau</text:span></text:p>
      </table:table-cell>
@@ -1922,9 +1925,9 @@
    <text:h text:style-name="P92" text:outline-level="2">Transport</text:h>
    <text:p text:style-name="P22">IP ne garantit rien quand à la livraison, IP n’assure que la gestion de la cartographie d’un réseau. Pour s’assurer que le paquet arrive à destination, il faut ajouter une nouvelle couche. C’est le rôle de la couche transport. Avec TCP, nous obtenons un mécanisme de garantie de livraison par le biais de datagrammes dédiés à accuser la réception (<text:bookmark-start text:name="__DdeLink__7_3701972905"/>Acknowledgement<text:bookmark-end text:name="__DdeLink__7_3701972905"/> ou ACK). C’est également TCP qui remet les paquets IP dans l’ordre si besoin.</text:p>
    <text:h text:style-name="P71" text:outline-level="2">Évaluation par les pairs avec émotionalité</text:h>
-   <text:p text:style-name="P35">Qu’est-ce qu’Internet ? Quelle est la différence avec le protocole internet ? <text:span text:style-name="T23">Et le Web ?</text:span></text:p>
+   <text:p text:style-name="P35">Qu’est-ce qu’Internet ? Quelle est la différence avec le protocole internet : <text:span text:style-name="T33">quelles sont les couches associées </text:span>? <text:span text:style-name="T23">Et </text:span><text:span text:style-name="T33">pour</text:span><text:span text:style-name="T23"> le Web ?</text:span></text:p>
    <text:p text:style-name="P35"/>
-   <text:p text:style-name="P35">A quoi ressemble une adresse internet ? <text:span text:style-name="T31">Quel est le rôle du masque ?</text:span></text:p>
+   <text:p text:style-name="P35">A quoi ressemble une adresse internet, <text:span text:style-name="T33">avec un exemple </text:span>? <text:span text:style-name="T31">Quel est le rôle du masque ? </text:span><text:span text:style-name="T33">Donner un exemple où apparaissent : l’adresse IP, le masque et l’adresse du réseau.</text:span></text:p>
    <text:p text:style-name="P35"/>
    <text:p text:style-name="P36">Donner le nom d’un protocole de <text:span text:style-name="T15">transmission </text:span><text:span text:style-name="T30">de la couche transport</text:span><text:span text:style-name="T15"> ? </text:span><text:span text:style-name="T30">Quelle est la signification de cet acronyme ?</text:span></text:p>
    <text:p text:style-name="P35"/>
